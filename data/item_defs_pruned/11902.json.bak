@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Leaf-bladed sword",
+  "examine": "A razor-sharp sword.",
+  "id": 11902,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

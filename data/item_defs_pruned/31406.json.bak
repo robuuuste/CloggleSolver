@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon nails",
+  "examine": "Keeps things in place fairly permanently.",
+  "id": 31406,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

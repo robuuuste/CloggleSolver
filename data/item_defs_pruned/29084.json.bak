@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Sulphur blades",
+  "examine": "Are these explosive?",
+  "id": 29084,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ]
+}

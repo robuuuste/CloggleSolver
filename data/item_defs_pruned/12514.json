@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Explorer backpack",
+  "examine": "I'm the Backpack loaded up with things and knick knacks too.",
+  "id": 12514,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "hard_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

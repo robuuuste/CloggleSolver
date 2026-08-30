@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Granite legs",
+  "examine": "These look pretty heavy.",
+  "id": 6809,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ],
+  "sources": [
+    "slayer"
+  ],
+  "categories": [
+    "other"
+  ]
+}

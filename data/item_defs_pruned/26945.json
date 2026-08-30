@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Pharaoh's sceptre (uncharged)",
+  "examine": "This sceptre has no remaining charges.",
+  "id": 26945,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ],
+  "sources": [
+    "miscellaneous"
+  ],
+  "categories": [
+    "other"
+  ]
+}

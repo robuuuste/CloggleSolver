@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Soiled page",
+  "examine": "It's a bit dirty.",
+  "id": 30068,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Robe bottom of darkness",
+  "examine": "A dark power is woven into this robe bottom.",
+  "id": 20137,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

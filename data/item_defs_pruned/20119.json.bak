@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Lovakengj hood",
+  "examine": "A rare hood from Lovakengj.",
+  "id": 20119,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

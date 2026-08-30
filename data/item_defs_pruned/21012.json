@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon hunter crossbow",
+  "examine": "A crossbow used for dragon hunting.",
+  "id": 21012,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "chambers_of_xeric"
+  ],
+  "categories": [
+    "raids"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Bronze defender",
+  "examine": "A defensive weapon.",
+  "id": 8844,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ],
+  "sources": [
+    "cyclopes"
+  ],
+  "categories": [
+    "other"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Shield left half",
+  "examine": "The left half of a dragon square shield.",
+  "id": 2366,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

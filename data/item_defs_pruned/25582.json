@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Fish barrel",
+  "examine": "Like stashing fish in a barrel.",
+  "id": 25582,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ],
+  "sources": [
+    "tempoross"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

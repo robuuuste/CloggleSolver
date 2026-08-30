@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Araxyte fang",
+  "examine": "A still dripping venomous fang from a powerful araxyte.",
+  "id": 29799,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ]
+}

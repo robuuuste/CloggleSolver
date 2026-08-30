@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Tumeken's guardian",
+  "examine": "A tiny automaton imbued with a trace of Tumeken's power.",
+  "id": 27352,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ],
+  "sources": [
+    "all_pets",
+    "tombs_of_amascut"
+  ],
+  "categories": [
+    "other",
+    "raids"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon metal sheet",
+  "examine": "A very old sheet of dragon metal.",
+  "id": 31996,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "sailing_miscellaneous",
+    "slayer"
+  ],
+  "categories": [
+    "other"
+  ]
+}

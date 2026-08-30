@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Bottom of sceptre",
+  "examine": "Bottom half of a broken Sceptre.",
+  "id": 9011,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Misthalin"
+  ]
+}

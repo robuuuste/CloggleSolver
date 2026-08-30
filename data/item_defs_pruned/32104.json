@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Zamorakian paint",
+  "examine": "A powerful red paint. This might look good on a boat.",
+  "id": 32104,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands"
+  ],
+  "sources": [
+    "boat_paints"
+  ],
+  "categories": [
+    "other"
+  ]
+}

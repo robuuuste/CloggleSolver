@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Long bone",
+  "examine": "A Construction bone.",
+  "id": 10976,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "miscellaneous"
+  ],
+  "categories": [
+    "other"
+  ]
+}

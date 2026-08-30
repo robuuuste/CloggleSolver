@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Blood moon helm",
+  "examine": "The helm of the Blood Moon.",
+  "id": 29028,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "moons_of_peril"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

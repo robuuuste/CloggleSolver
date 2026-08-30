@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Torva platebody (damaged)",
+  "examine": "An ancient warrior's platebody.",
+  "id": 26378,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Troll Country"
+  ]
+}

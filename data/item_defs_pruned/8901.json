@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Black mask (10)",
+  "examine": "A magic cave horror mask.",
+  "id": 8901,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands"
+  ],
+  "sources": [
+    "slayer"
+  ],
+  "categories": [
+    "other"
+  ]
+}

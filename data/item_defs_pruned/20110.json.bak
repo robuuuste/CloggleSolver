@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Bowl wig",
+  "examine": "The bowl wig.",
+  "id": 20110,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

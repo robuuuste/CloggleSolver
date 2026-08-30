@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Colossal wyrm teleport scroll",
+  "examine": "A teleport to the Colossal Wyrm Remains in the Avium Savannah.",
+  "id": 30040,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "colossal_wyrm_agility"
+  ],
+  "categories": [
+    "other"
+  ]
+}

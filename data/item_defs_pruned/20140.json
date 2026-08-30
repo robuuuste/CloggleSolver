@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Boots of darkness",
+  "examine": "A dark power is woven into these boots.",
+  "id": 20140,
+  "wearPos1": 10,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "master_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Paragraph of text",
+  "examine": "Possibly the results of an experiment.",
+  "id": 21674,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fossil Island"
+  ]
+}

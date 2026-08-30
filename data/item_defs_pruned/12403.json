@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Digsite teleport",
+  "examine": "Teleports you to the Digsite.",
+  "id": 12403,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "shared_treasure_trail_rewards"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

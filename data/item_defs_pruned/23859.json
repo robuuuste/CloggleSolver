@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Gauntlet cape",
+  "examine": "Earned by only the most accomplished warriors of Prifddinas.",
+  "id": 23859,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Tiranwnn"
+  ],
+  "sources": [
+    "the_gauntlet"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

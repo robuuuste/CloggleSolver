@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Hallowed hammer",
+  "examine": "Removes the chance of bending nails within the Hallowed Sepulchre.",
+  "id": 24727,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ]
+}

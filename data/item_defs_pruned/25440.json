@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Zealot's boots",
+  "examine": "A well fashioned pair of boots with a strange aura emanating.",
+  "id": 25440,
+  "wearPos1": 10,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "shades_of_mortton"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

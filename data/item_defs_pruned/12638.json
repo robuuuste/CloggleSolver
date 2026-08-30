@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Zamorak halo",
+  "examine": "Halo with the protection of Zamorak.",
+  "id": 12638,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "castle_wars"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

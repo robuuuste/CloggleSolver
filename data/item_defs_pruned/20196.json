@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Steel kiteshield (t)",
+  "examine": "Steel kiteshield with trim.",
+  "id": 20196,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "easy_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

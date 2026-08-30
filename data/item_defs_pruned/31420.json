@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Huge halibut",
+  "examine": "It's huge! I should get this stuffed!",
+  "id": 31420,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "miscellaneous"
+  ],
+  "categories": [
+    "other"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Chompy bird hat",
+  "examine": "A symbol of your chompy bird hunting prowess: Yeoman (70 kills)",
+  "id": 2981,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Feldip Hills"
+  ],
+  "sources": [
+    "chompy_bird_hunting"
+  ],
+  "categories": [
+    "other"
+  ]
+}

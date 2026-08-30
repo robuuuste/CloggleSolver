@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Adamant platelegs (g)",
+  "examine": "Adamant platelegs with gold trim.",
+  "id": 2609,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

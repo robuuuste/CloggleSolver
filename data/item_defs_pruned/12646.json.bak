@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Baby Mole",
+  "examine": "Keep Molin', molin' molin' molin'!",
+  "id": 12646,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ]
+}

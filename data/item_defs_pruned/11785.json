@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Armadyl crossbow",
+  "examine": "A weapon originally developed for Armadyl's forces.",
+  "id": 11785,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Troll Country"
+  ],
+  "sources": [
+    "commander_zilyana"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

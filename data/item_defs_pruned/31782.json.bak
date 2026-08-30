@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": false,
+  "name": "Big pearl",
+  "examine": "Looks like it would fetch a high price.",
+  "id": 31782,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

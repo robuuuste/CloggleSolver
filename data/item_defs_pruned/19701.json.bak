@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Jar of darkness",
+  "examine": "It smells like it's been where the sun doesn't shine.",
+  "id": 19701,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ]
+}

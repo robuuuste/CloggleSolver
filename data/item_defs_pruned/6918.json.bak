@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Infinity hat",
+  "examine": "A mystic hat.",
+  "id": 6918,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ]
+}

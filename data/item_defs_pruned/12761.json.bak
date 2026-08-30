@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Yellow dark bow paint",
+  "examine": "Paints things yellow!",
+  "id": 12761,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Nunchaku",
+  "examine": "A pair of Nunchaku, smells of pizza.",
+  "id": 19918,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Adamant helm (h5)",
+  "examine": "An adamant helmet with a heraldic design.",
+  "id": 10304,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "medium_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Tyrannical ring",
+  "examine": "An incredibly heavy ring.",
+  "id": 12603,
+  "wearPos1": 12,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ]
+}

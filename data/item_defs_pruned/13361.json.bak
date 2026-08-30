@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Shayzien platebody (1)",
+  "examine": "Dress like a tier 1 Shayzien soldier.",
+  "id": 13361,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ]
+}

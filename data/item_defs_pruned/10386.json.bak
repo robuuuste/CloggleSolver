@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Saradomin d'hide body",
+  "examine": "Saradomin blessed dragonhide body armour.",
+  "id": 10386,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

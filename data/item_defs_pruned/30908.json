@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Major easy scroll case",
+  "examine": "Maybe I should open it...",
+  "id": 30908,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "scroll_cases"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

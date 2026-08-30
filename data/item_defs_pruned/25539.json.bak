@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Celestial ring (uncharged)",
+  "examine": "A ring forged in the heart of a shooting star. It provides some useful mining boosts.",
+  "id": 25539,
+  "wearPos1": 12,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ]
+}

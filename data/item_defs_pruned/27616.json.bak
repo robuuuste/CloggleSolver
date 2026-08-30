@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Ancient essence",
+  "examine": "Pure magical energy filled with a dark power.",
+  "id": 27616,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Troll Country"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Armadyl chestplate",
+  "examine": "Armour of great craftsmanship.",
+  "id": 11828,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Troll Country"
+  ],
+  "sources": [
+    "kree_arra"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

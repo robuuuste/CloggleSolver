@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Hydra's eye",
+  "examine": "It's the... eye of the Hydra! It looks like it can be combined with a heart and a fang.",
+  "id": 22973,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ]
+}

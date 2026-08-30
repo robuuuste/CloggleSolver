@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Ring of the elements",
+  "examine": "A mystical ring.",
+  "id": 26815,
+  "wearPos1": 12,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes"
+  ],
+  "sources": [
+    "guardians_of_the_rift"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

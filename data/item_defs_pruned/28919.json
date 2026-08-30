@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Tonalztics of ralos (uncharged)",
+  "examine": "A rebounding throwing weapon of devastating proportions.",
+  "id": 28919,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "fortis_colosseum"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Desiccated page",
+  "examine": "It seems to lack any elemental substance.",
+  "id": 30640,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ],
+  "sources": [
+    "royal_titans"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

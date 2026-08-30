@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Spirit angler top",
+  "examine": "This will help with fishing.",
+  "id": 25594,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ]
+}

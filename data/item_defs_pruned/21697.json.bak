@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Ash covered tome",
+  "examine": "An ash covered book containing the secrets required for casting a stronger fertile soil spell.",
+  "id": 21697,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fossil Island"
+  ]
+}

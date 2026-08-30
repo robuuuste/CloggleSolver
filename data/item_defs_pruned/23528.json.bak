@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Sarachnis cudgel",
+  "examine": "Not to be confused with a Sarachnis cuddle.",
+  "id": 23528,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ]
+}

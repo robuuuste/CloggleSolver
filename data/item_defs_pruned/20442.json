@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Evil chicken legs",
+  "examine": "Evil legs for an evil human wanting to dress like an evil chicken.",
+  "id": 20442,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "miscellaneous"
+  ],
+  "categories": [
+    "other"
+  ]
+}

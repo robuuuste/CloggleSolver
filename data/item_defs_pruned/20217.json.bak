@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Team cape i",
+  "examine": "Ooohhh look at the dirty colours...",
+  "id": 20217,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

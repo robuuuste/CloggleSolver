@@ -1,0 +1,2010 @@
+abyssal_sire:
+  Abyssal head: 0
+  Abyssal orphan: 0
+  Bludgeon axon: 0
+  Bludgeon claw: 0
+  Bludgeon spine: 0
+  Unsired: 0
+  Jar of miasma: 42859
+  Abyssal whip: 792096.5
+  Abyssal dagger: 1184498
+
+aerial_fishing:
+  Angler boots: 0
+  Angler hat: 0
+  Angler top: 0
+  Angler waders: 0
+  Fish sack: 0
+  Golden tench: 0
+  Pearl barbarian rod: 0
+  Pearl fishing rod: 0
+  Pearl fly fishing rod: 0
+
+alchemical_hydra:
+  Alchemical hydra heads: 0
+  Hydra's eye: 0
+  Hydra's fang: 0
+  Hydra's heart: 0
+  Ikkle hydra: 0
+  Dragon thrownaxe: 303.5
+  Dragon knife: 3870
+  Hydra tail: 71119
+  Jar of chemicals: 81500
+  Hydra leather: 9867670.5
+  Hydra's claw: 44944000
+
+all_pets:
+  Abyssal orphan: 0
+  Abyssal protector: 0
+  Aggy: 0
+  Baby chinchompa: 0
+  Baby mole: 0
+  Baron: 0
+  Beaver: 0
+  Beef: 0
+  Bloodhound: 0
+  Bran: 0
+  Butch: 0
+  Callisto cub: 0
+  Chompy chick: 0
+  Dom: 0
+  Giant squirrel: 0
+  Gull: 0
+  Hellpuppy: 0
+  Herbi: 0
+  Heron: 0
+  Huberte: 0
+  Ikkle hydra: 0
+  Jal-nib-rek: 0
+  Kalphite princess: 0
+  Lil' creator: 0
+  Lil' zik: 0
+  Lil'viathan: 0
+  Little nightmare: 0
+  Maggot marquess: 0
+  Moxi: 0
+  Mr mcgroot: 0
+  Muphin: 0
+  Nexling: 0
+  Nid: 0
+  Noon: 0
+  Olmlet: 0
+  Pet chaos elemental: 0
+  Pet dagannoth prime: 0
+  Pet dagannoth rex: 0
+  Pet dagannoth supreme: 0
+  Pet dark core: 0
+  Pet general graardor: 0
+  Pet k'ril tsutsaroth: 0
+  Pet kraken: 0
+  Pet kree'arra: 0
+  Pet penance queen: 0
+  Pet smoke devil: 0
+  Pet snakeling: 0
+  Pet zilyana: 0
+  Phoenix: 0
+  Prince black dragon: 0
+  Quetzin: 0
+  Rift guardian: 0
+  Rock golem: 0
+  Rocky: 0
+  Scorpia's offspring: 0
+  Scurry: 0
+  Skotos: 0
+  Smol heredit: 0
+  Smolcano: 0
+  Soup: 0
+  Sraracha: 0
+  Tangleroot: 0
+  Tiny tempor: 0
+  Tumeken's guardian: 0
+  Tzrek-jad: 0
+  Venenatis spiderling: 0
+  Vet'ion jr.: 0
+  Vorki: 0
+  Wisp: 0
+  Yami: 0
+  Youngllef: 0
+
+amoxliatl:
+  Moxi: 0
+  Pendant of ates (inert): 0
+  Frozen tear: 1610
+  Glacial temotli: 74268.5
+
+araxxor:
+  Araxyte fang: 0
+  Araxyte head: 0
+  Coagulated venom: 0
+  Jar of venom: 0
+  Nid: 0
+  Noxious blade: 0
+  Noxious point: 0
+  Noxious pommel: 0
+  Araxyte venom sac: 1062.5
+  Spider cave teleport: 31104
+
+barbarian_assault:
+  Fighter hat: 0
+  Fighter torso: 0
+  Healer hat: 0
+  Penance gloves: 0
+  Penance skirt: 0
+  Pet penance queen: 0
+  Ranger hat: 0
+  Runner boots: 0
+  Runner hat: 0
+  Granite helm: 28204.5
+  Granite body: 51890.5
+
+barracuda_trials:
+  Barrel stand: 0
+  Captured wind mote: 0
+  Fetid key: 0
+  Gurtob's fabric roll: 0
+  Gwyna's fabric roll: 0
+  Heart of ithell: 0
+  Ralph's fabric roll: 0
+  Serrated key: 0
+  Stormy key: 0
+
+barrows_chests:
+  Bolt rack: 88
+  Karil's coif: 44790.5
+  Guthan's warspear: 89080.5
+  Torag's hammers: 97600
+  Karil's crossbow: 98050
+  Verac's flail: 101128.5
+  Verac's helm: 119890
+  Guthan's helm: 140920
+  Torag's helm: 146428
+  Ahrim's staff: 146899
+  Guthan's chainskirt: 190591
+  Verac's brassard: 196358.5
+  Guthan's platebody: 231812
+  Torag's platebody: 290653.5
+  Dharok's helm: 317927.5
+  Torag's platelegs: 353177
+  Verac's plateskirt: 380571.5
+  Ahrim's hood: 392190.5
+  Karil's leatherskirt: 423297
+  Karil's leathertop: 917591.5
+  Dharok's platebody: 920879
+  Dharok's platelegs: 972225.5
+  Ahrim's robetop: 1538185.5
+  Ahrim's robeskirt: 1563543
+  Dharok's greataxe: 1851130.5
+
+beginner_treasure_trails:
+  Sandwich lady bottom: 963.5
+  Black pickaxe: 2560
+  Amulet of defence (t): 2850
+  Rune scimitar ornament kit (guthix): 2886.5
+  Rune scimitar ornament kit (saradomin): 3743
+  Rune scimitar ornament kit (zamorak): 4344.5
+  Sandwich lady top: 6872
+  Sandwich lady hat: 7792
+  Monk's robe (t): 13790.5
+  Jester cape: 17190
+  Bear feet: 21994
+  Frog slippers: 22355
+  Monk's robe top (t): 42405
+  Demon feet: 50792
+  Shoulder parrot: 61866.5
+  Mole slippers: 159287.5
+
+boat_paints:
+  Armadylean paint: 0
+  Guthixian paint: 0
+  Sandy paint: 0
+  Saradominist paint: 0
+  Zamorakian paint: 0
+  Shark paint: 819
+  Salvor's paint: 447664
+  Inky paint: 2043354
+  Barracuda paint: 3455459.5
+  Angler's paint: 8638424.5
+  Merchant's paint: 11466555
+
+brimhaven_agility_arena:
+  Agility arena ticket: 0
+  Brimhaven voucher: 0
+  Pirate's hook: 917848.5
+
+brutus:
+  Beef: 0
+  Bottomless milk bucket (empty): 0
+  Mooleta: 0
+  Cow slippers: 5177
+
+bryophyta:
+  Bryophyta's essence: 4161111
+
+callisto_and_artio:
+  Callisto cub: 0
+  Claws of callisto: 46799.5
+  Dragon 2h sword: 131398
+  Tyrannical ring: 153640.5
+  Dragon pickaxe: 596006
+  Voidwaker hilt: 1827411.5
+
+camdozaal:
+  Ancient astroscope: 0
+  Ancient carcanet: 0
+  Ancient globe: 0
+  Ancient ledger: 0
+  Ancient treatise: 0
+  Barronite guard: 0
+  Barronite handle: 0
+  Barronite head: 0
+  Barronite mace: 0
+  Imcando hammer: 0
+
+castle_wars:
+  Castlewars cloak: 0
+  Castlewars hood: 0
+  Decorative armour: 0
+  Decorative boots: 0
+  Decorative full helm: 0
+  Decorative helm: 0
+  Decorative shield: 0
+  Decorative sword: 0
+  Guthix halo: 0
+  Saradomin banner: 0
+  Saradomin halo: 0
+  Zamorak banner: 0
+  Zamorak halo: 0
+
+cerberus:
+  Hellpuppy: 0
+  Key master teleport: 22996.5
+  Jar of souls: 38600.5
+  Pegasian crystal: 120000
+  Eternal crystal: 3099000
+  Smouldering stone: 3276463.5
+  Primordial crystal: 18075500
+
+chambers_of_xeric:
+  Dark relic: 0
+  Metamorphic dust: 0
+  Olmlet: 0
+  Twisted ancestral colour kit: 0
+  Xeric's champion: 0
+  Xeric's general: 0
+  Xeric's guard: 0
+  Xeric's sentinel: 0
+  Xeric's warrior: 0
+  Torn prayer scroll: 48450
+  Onyx: 2666800
+  Arcane prayer scroll: 5473272
+  Dinh's bulwark: 12174176
+  Twisted buckler: 12755220
+  Dexterous prayer scroll: 19952305
+  Dragon hunter crossbow: 27477702
+  Dragon claws: 38022848.5
+  Ancestral hat: 45288500
+  Kodai insignia: 48508507.5
+  Ancestral robe bottom: 67404504.5
+  Elder maul: 92761000
+  Ancestral robe top: 99174205.5
+  Twisted bow: 1392816500
+
+champions_challenge:
+  Champion's cape: 0
+  Earth warrior champion scroll: 0
+  Ghoul champion scroll: 0
+  Giant champion scroll: 0
+  Goblin champion scroll: 0
+  Hobgoblin champion scroll: 0
+  Imp champion scroll: 0
+  Jogre champion scroll: 0
+  Lesser demon champion scroll: 0
+  Skeleton champion scroll: 0
+  Zombie champion scroll: 0
+
+chaos_druids:
+  Elder chaos hood: 254836.5
+  Elder chaos robe: 293345.5
+  Elder chaos top: 328844.5
+
+chaos_elemental:
+  Pet chaos elemental: 0
+  Dragon 2h sword: 131398
+  Dragon pickaxe: 596006
+
+chaos_fanatic:
+  Pet chaos elemental: 0
+  Malediction shard 1: 1271059
+  Odium shard 1: 1807694
+
+chompy_bird_hunting:
+  Chompy bird hat: 0
+  Chompy chick: 0
+
+colossal_wyrm_agility:
+  Calcified acorn: 0
+  Graceful boots: 0
+  Graceful cape: 0
+  Graceful gloves: 0
+  Graceful hood: 0
+  Graceful legs: 0
+  Graceful top: 0
+  Colossal wyrm teleport scroll: 22099.5
+
+commander_zilyana:
+  Pet zilyana: 0
+  Saradomin's light: 56099
+  Saradomin sword: 128968.5
+  Godsword shard 2: 148701
+  Godsword shard 1: 149716.5
+  Godsword shard 3: 168262.5
+  Saradomin hilt: 23033500
+  Armadyl crossbow: 34172964
+
+corporeal_beast:
+  Pet dark core: 0
+  Spirit shield: 89850.5
+  Jar of spirits: 112555.5
+  Holy elixir: 894555
+  Spectral sigil: 23000000
+  Arcane sigil: 122754239.5
+  Elysian sigil: 546719699.5
+
+crazy_archaeologist:
+  Fedora: 5731.5
+  Malediction shard 2: 378601.5
+  Odium shard 2: 563626
+
+creature_creation:
+  Black satchel: 0
+  Gold satchel: 0
+  Green satchel: 0
+  Plain satchel: 0
+  Red satchel: 0
+  Rune satchel: 0
+  Tea flask: 0
+
+cyclopes:
+  Adamant defender: 0
+  Black defender: 0
+  Bronze defender: 0
+  Dragon defender: 0
+  Iron defender: 0
+  Mithril defender: 0
+  Rune defender: 0
+  Steel defender: 0
+
+dagannoth_kings:
+  Pet dagannoth prime: 0
+  Pet dagannoth rex: 0
+  Pet dagannoth supreme: 0
+  Mud battlestaff: 24898.5
+  Seercull: 28227
+  Warrior ring: 55923
+  Dragon axe: 73228
+  Seers ring: 819587.5
+  Archers ring: 2316491.5
+  Berserker ring: 3770182.5
+
+deranged_archaeologist:
+  Steel ring: 196595
+
+doom_of_mokhaiotl:
+  Dom: 0
+  Mokhaiotl cloth: 0
+  Demon tear: 257.5
+  Mokhaiotl waystone: 42513.5
+  Eye of ayak (uncharged): 40035551.5
+  Avernic treads: 159289024.5
+
+duke_sucellus:
+  Baron: 0
+  Eye of the duke: 0
+  Frozen tablet: 0
+  Ice quartz: 0
+  Magus vestige: 0
+  Chromium ingot: 44123
+  Awakener's orb: 287544.5
+  Virtus mask: 5027814
+  Virtus robe bottom: 23809300.5
+  Virtus robe top: 29841341.5
+
+easy_treasure_trails:
+  Pantaloons: 1045.5
+  Iron plateskirt (t): 1078
+  Black shield (h1): 1118
+  Black platebody (h3): 1317.5
+  Black shield (h3): 1398
+  Black shield (h2): 1401
+  Black shield (h4): 1449
+  Bronze platelegs (t): 1481
+  Steel platelegs (g): 1536.5
+  Black plateskirt (t): 1615.5
+  Bronze plateskirt (g): 1718
+  Black platebody (h1): 1925.5
+  Black shield (h5): 1966.5
+  Black helm (h3): 2068
+  Black platebody (h2): 2130
+  Bronze plateskirt (t): 2442.5
+  Steel plateskirt (t): 2542
+  Black pickaxe: 2560
+  Steel plateskirt (g): 2920
+  Black plateskirt (g): 2950.5
+  Black platebody (h4): 3185
+  Black platebody (h5): 3206
+  Bronze platelegs (g): 3219.5
+  Bronze platebody (t): 3415.5
+  Black cane: 3484
+  Black helm (h4): 3533.5
+  Studded chaps (t): 3791.5
+  Studded body (g): 3817.5
+  Iron platelegs (t): 4031
+  Studded body (t): 4081
+  Bronze kiteshield (t): 4513.5
+  Black helm (h2): 4600.5
+  Green elegant legs: 4891
+  Steel full helm (t): 5197
+  Willow comp bow: 5550
+  Iron plateskirt (g): 5677.5
+  Iron kiteshield (t): 6207.5
+  Black helm (h5): 6223
+  Bronze full helm (t): 6303
+  Black platelegs (t): 6444.5
+  A powdered wig: 6497
+  Imp mask: 6705.5
+  Red elegant legs: 6824
+  Steel kiteshield (t): 6952
+  Bob's red shirt: 7139
+  Bob's green shirt: 7163.5
+  Red elegant skirt: 7298
+  Black helm (h1): 7315
+  Black kiteshield (t): 7599.5
+  Bob's purple shirt: 7964
+  Steel platebody (t): 8093.5
+  Bob's blue shirt: 8265.5
+  Blue elegant shirt: 8312.5
+  Steel platelegs (t): 8600
+  Steel kiteshield (g): 8649
+  Green elegant skirt: 9096
+  Blue elegant skirt: 9417.5
+  Red elegant shirt: 9552
+  Green elegant shirt: 10266.5
+  Blue beret: 10349.5
+  Steel full helm (g): 11309.5
+  Beanie: 11325
+  Studded chaps (g): 12128.5
+  Steel platebody (g): 14000
+  Red beret: 15000
+  Black platebody (t): 15467.5
+  Amulet of magic (t): 15694
+  Leather chaps (g): 16000.5
+  Bandos robe top: 17756
+  Black skirt (t): 18430.5
+  Sleeping cap: 19717
+  Black full helm (t): 20213
+  Iron platebody (t): 20254.5
+  Iron full helm (t): 21363.5
+  Red elegant blouse: 22604
+  Green elegant blouse: 22801
+  Guthix robe legs: 22894.5
+  Bronze kiteshield (g): 23288.5
+  Blue skirt (g): 24219
+  Iron kiteshield (g): 24525
+  Blue elegant legs: 24731.5
+  Ancient robe top: 25136
+  Black platelegs (g): 27441
+  Bob's black shirt: 28491.5
+  Armadyl robe legs: 28835.5
+  Guthix robe top: 29473.5
+  Ancient robe legs: 30616
+  Black beret: 32997
+  Blue wizard robe (t): 33810.5
+  Saradomin robe top: 34216.5
+  Zamorak robe legs: 34243
+  White beret: 34644
+  Black skirt (g): 34889
+  Iron platelegs (g): 37296
+  Bandos robe legs: 37440.5
+  Bronze platebody (g): 37610.5
+  Blue elegant blouse: 39316
+  Blue wizard hat (t): 42315
+  Goblin mask: 42431.5
+  Saradomin robe legs: 45643
+  Bronze full helm (g): 53251
+  Zamorak robe top: 53388.5
+  Blue skirt (t): 56618.5
+  Leather body (g): 60405.5
+  Armadyl robe top: 62498.5
+  Rain bow: 63789.5
+  Wooden shield (g): 77183.5
+  Highwayman mask: 77449
+  Black wizard robe (t): 82801
+  Black full helm (g): 86799.5
+  Black kiteshield (g): 106954.5
+  Black platebody (g): 110117.5
+  Black wizard hat (t): 110194
+  Blue wizard hat (g): 119478.5
+  Staff of bob the cat: 122503
+  Iron full helm (g): 128882
+  Iron platebody (g): 130351
+  Golden apron: 141704.5
+  Blue wizard robe (g): 158045
+  Black wizard robe (g): 180440.5
+  Black wizard hat (g): 200471
+  Amulet of power (t): 355000.5
+  Golden chef's hat: 364099
+  Monk's robe (g): 1058410.5
+  Team cape i: 1154035.5
+  Ham joint: 1206790
+  Team cape x: 1250585
+  Flared trousers: 2209832.5
+  Team cape zero: 2581806.5
+  Cape of skulls: 3243878.5
+  Monk's robe top (g): 4115770
+
+elite_treasure_trails:
+  Royal gown bottom: 2930
+  Steel dragon mask: 4717.5
+  Lovakengj scarf: 4819.5
+  Deerstalker: 4992.5
+  Arceuus scarf: 5214
+  Adamant dragon mask: 5269
+  Iron dragon mask: 5279
+  Mithril dragon mask: 5379
+  Uri's hat: 5442
+  Bronze dragon mask: 6184
+  Shayzien scarf: 6405
+  Light infinity colour kit: 6575
+  Piscarilius scarf: 6585
+  Dragon legs/skirt ornament kit: 8247
+  Hosidius scarf: 8649.5
+  Dragon chainbody ornament kit: 9436
+  Musketeer tabard: 10050
+  Afro: 10849
+  Dragon sq shield ornament kit: 10968
+  Royal gown top: 13490.5
+  Bucket helm: 14167
+  Royal sceptre: 14313.5
+  Black d'hide body (t): 16653
+  Rune dragon mask: 18042
+  Dragon cane: 18941
+  Dark infinity colour kit: 18963.5
+  Musketeer pants: 21162.5
+  Black d'hide body (g): 21704.5
+  Dragon full helm ornament kit: 22558
+  Black d'hide chaps (t): 24213
+  Giant boot: 24603
+  Blacksmith's helm: 28550
+  Katana: 44577
+  Monocle: 55120
+  Black d'hide chaps (g): 68599
+  Musketeer hat: 80847
+  Royal crown: 104999.5
+  Dragon scimitar ornament kit: 116833.5
+  Rangers' tights: 122500
+  Top hat: 124978
+  Big pirate hat: 131998
+  Ranger gloves: 141741.5
+  Briefcase: 162055.5
+  Fury ornament kit: 192508
+  Light tuxedo cuffs: 210000
+  Dark bow tie: 314561.5
+  Light trousers: 320000
+  Light bow tie: 328203.5
+  Dark tuxedo cuffs: 380000
+  Sagacious spectacles: 436568
+  Dark tuxedo shoes: 465000
+  Holy wraps: 524606.5
+  Dark trousers: 666092
+  Light tuxedo shoes: 711661.5
+  Lava dragon mask: 876402
+  Light tuxedo jacket: 956669.5
+  Dark tuxedo jacket: 1201059
+  Rangers' tunic: 1802604
+  Fremennik kilt: 2299566.5
+  Ring of nature: 6733083.5
+
+fishing_trawler:
+  Angler boots: 0
+  Angler hat: 0
+  Angler top: 0
+  Angler waders: 0
+
+forestry:
+  Cape pouch: 0
+  Forestry boots: 0
+  Forestry hat: 0
+  Forestry legs: 0
+  Forestry top: 0
+  Fox whistle: 0
+  Funky shaped log: 0
+  Golden pheasant egg: 0
+  Log basket: 0
+  Lumberjack boots: 0
+  Lumberjack hat: 0
+  Lumberjack legs: 0
+  Lumberjack top: 0
+  Petal garland: 0
+  Pheasant boots: 0
+  Pheasant cape: 0
+  Pheasant hat: 0
+  Pheasant legs: 0
+  Sturdy beehive parts: 0
+  Twitcher's gloves: 0
+  Log brace: 771292.5
+  Felling axe handle: 1962777.5
+  Clothes pouch blueprint: 2290804.5
+
+fortis_colosseum:
+  Dizana's quiver (uncharged): 0
+  Smol heredit: 0
+  Sunfire splinters: 396
+  Sunfire fanatic helm: 1716637
+  Sunfire fanatic cuirass: 2413698
+  Uncut onyx: 2627863
+  Echo crystal: 2649907.5
+  Sunfire fanatic chausses: 3203122
+  Tonalztics of ralos (uncharged): 45260594
+
+fossil_island_notes:
+  Ancient note: 0
+  Ancient writings: 0
+  Experimental note: 0
+  Hastily scrawled note: 0
+  Musty smelling note: 0
+  Old writing: 0
+  Paragraph of text: 0
+  Partial note: 0
+  Scribbled note: 0
+  Short note: 0
+
+general_graardor:
+  Pet general graardor: 0
+  Godsword shard 2: 148701
+  Godsword shard 1: 149716.5
+  Godsword shard 3: 168262.5
+  Bandos boots: 882469
+  Bandos tassets: 15350324
+  Bandos hilt: 16928498
+  Bandos chestplate: 23117767.5
+
+giant_mole:
+  Baby mole: 0
+  Immaculate mole skin: 0
+  Mole skin: 5457
+  Mole claw: 6152.5
+
+giants_foundry:
+  Colossal blade: 0
+  Double ammo mould: 0
+  Ore pack: 0
+  Smithing catalyst: 0
+  Smiths boots: 0
+  Smiths gloves: 0
+  Smiths trousers: 0
+  Smiths tunic: 0
+  Kovac's grog: 94941
+
+gloughs_experiments:
+  Ballista limbs: 28356
+  Light frame: 28956.5
+  Ballista spring: 29311
+  Heavy frame: 393314
+  Monkey tail: 471897.5
+  Zenyte shard: 16156772
+
+gnome_restaurant:
+  Gnome goggles: 12500.5
+  Mint cake: 66942
+  Grand seed pod: 222835.5
+  Gnome scarf: 1008499.5
+
+grotesque_guardians:
+  Granite dust: 0
+  Noon: 0
+  Granite ring: 26814.5
+  Granite gloves: 29257
+  Black tourmaline core: 637500
+  Jar of stone: 1132748
+  Granite hammer: 8781507.5
+
+guardians_of_the_rift:
+  Abyssal blue dye: 0
+  Abyssal green dye: 0
+  Abyssal lantern: 0
+  Abyssal needle: 0
+  Abyssal pearls: 0
+  Abyssal protector: 0
+  Abyssal red dye: 0
+  Boots of the eye: 0
+  Guardian's eye: 0
+  Hat of the eye: 0
+  Intricate pouch: 0
+  Lost bag: 0
+  Robe bottoms of the eye: 0
+  Robe top of the eye: 0
+  Tarnished locket: 0
+  Catalytic talisman: 1166.5
+  Ring of the elements: 606187.5
+
+hallowed_sepulchre:
+  Dark acorn: 0
+  Dark dye: 0
+  Hallowed focus: 0
+  Hallowed grapple: 0
+  Hallowed hammer: 0
+  Hallowed mark: 0
+  Hallowed ring: 0
+  Hallowed symbol: 0
+  Hallowed token: 0
+  Mysterious page: 0
+  Strange old lockpick (full): 19107
+  Ring of endurance (uncharged): 3152370.5
+
+hard_treasure_trails:
+  Blue d'hide chaps (g): 1266
+  Dark cavalier: 1290
+  Red d'hide chaps (t): 1370
+  Magic comp bow: 1423
+  White cavalier: 1598.5
+  Tzhaar-ket-om ornament kit: 1746.5
+  Zamorak stole: 1777.5
+  Blue d'hide chaps (t): 1909
+  Navy cavalier: 2002.5
+  Dual sai: 2010
+  Saradomin stole: 2189.5
+  Berserker necklace ornament kit: 3068
+  Tan cavalier: 3300
+  Cyclops head: 3318
+  Explorer backpack: 3356.5
+  Zamorak crozier: 3600
+  Guthix stole: 4005
+  Guthix crozier: 4250
+  Blue d'hide body (g): 4596.5
+  Red d'hide chaps (g): 4771.5
+  Blue d'hide body (t): 4904.5
+  Rune defender ornament kit: 5125.5
+  Red dragon mask: 5390
+  Blue dragon mask: 5398.5
+  Nunchaku: 5500
+  Green dragon mask: 5538
+  Red cavalier: 5635
+  Red d'hide body (g): 5910
+  Red d'hide body (t): 6022.5
+  Pith helmet: 7515.5
+  Rune cane: 7755
+  Enchanted hat: 7856
+  Dragon boots ornament kit: 9559
+  Zombie head: 9926.5
+  Guthix bracers: 10993
+  Thieving bag: 13721.5
+  Saradomin crozier: 13850
+  Ancient bracers: 16500
+  Saradomin bracers: 17081
+  Bandos full helm: 20312
+  Ancient full helm: 21306
+  Rune helm (h3): 21679
+  Rune helm (h5): 21727
+  Rune helm (h2): 22077.5
+  Armadyl full helm: 22785
+  Pirate's hat: 23003
+  Rune helm (h4): 23276.5
+  Rune full helm (t): 24246.5
+  Armadyl bracers: 25008
+  Bandos bracers: 25322
+  Guthix full helm: 31005
+  Guthix kiteshield: 31176.5
+  Rune shield (h3): 31502.5
+  Rune shield (h2): 31725.5
+  Ancient platebody: 32194
+  Bandos kiteshield: 32395.5
+  Armadyl kiteshield: 32600
+  Ancient kiteshield: 33054
+  Rune shield (h4): 34493
+  Saradomin coif: 35372.5
+  Bandos platelegs: 37268
+  Armadyl plateskirt: 37621
+  Zamorak platelegs: 37696.5
+  Guthix plateskirt: 37783.5
+  Ancient plateskirt: 37953.5
+  Bandos plateskirt: 38111
+  Guthix platebody: 38365.5
+  Ancient platelegs: 38458.5
+  Armadyl platebody: 38882.5
+  Rune platebody (h3): 38962
+  Black cavalier: 39000
+  Rune platebody (h1): 39226
+  Rune platebody (h2): 39385.5
+  Zamorak platebody: 39576
+  Rune shield (h5): 39596
+  Saradomin plateskirt: 39850
+  Rune plateskirt (g): 39888
+  Guthix platelegs: 39982.5
+  Rune plateskirt (t): 40009
+  Rune platebody (h4): 40078
+  Zamorak plateskirt: 40501
+  Rune platebody (t): 40716
+  Rune platebody (h5): 40794
+  Guthix coif: 40852
+  Rune platelegs (g): 41233.5
+  Armadyl platelegs: 42000.5
+  Zamorak kiteshield: 44000
+  Rune platebody (g): 47296.5
+  Saradomin platelegs: 47360
+  Enchanted robe: 47635
+  Rune platelegs (t): 48236.5
+  Saradomin kiteshield: 48465
+  Black dragon mask: 49205.5
+  Amulet of glory (t4): 51301.5
+  Rune kiteshield (t): 53444
+  Zamorak coif: 54500
+  Ancient coif: 54911.5
+  Rune helm (h1): 56578.5
+  Saradomin platebody: 58778.5
+  Armadyl coif: 59077.5
+  Rune shield (h1): 67884.5
+  Bandos coif: 71768
+  Saradomin full helm: 74704.5
+  Enchanted top: 75550
+  Ancient d'hide body: 77140.5
+  Zamorak bracers: 77578
+  Armadyl d'hide body: 79323
+  Saradomin d'hide body: 85586
+  Bandos d'hide body: 86500
+  Bandos platebody: 86534.5
+  Rune full helm (g): 86584
+  Rune kiteshield (g): 87407.5
+  Guthix d'hide body: 89509.5
+  Guthix d'hide boots: 121056.5
+  Ancient chaps: 123010.5
+  Bandos d'hide boots: 125062.5
+  Bandos chaps: 133654
+  Guthix chaps: 136187
+  Saradomin d'hide boots: 136807
+  Saradomin chaps: 139519.5
+  Zamorak d'hide body: 159251
+  Zamorak chaps: 162414
+  Bandos d'hide shield: 166637
+  Armadyl chaps: 167455
+  Ancient d'hide shield: 168886
+  Zamorak d'hide boots: 170238.5
+  Guthix d'hide shield: 174349.5
+  Ancient d'hide boots: 179164.5
+  Zamorak d'hide shield: 179787.5
+  Saradomin d'hide shield: 201414.5
+  Armadyl d'hide boots: 216057
+  Armadyl d'hide shield: 317193.5
+  Zamorak full helm: 499376.5
+  Robin hood hat: 819616
+
+hespori:
+  Attas seed: 0
+  Iasor seed: 0
+  Kronos seed: 0
+  Bottomless compost bucket: 477970.5
+
+hueycoatl:
+  Huberte: 0
+  Soiled page: 3118
+  Huasca seed: 39804
+  Hueycoatl hide: 460021
+  Tome of earth (empty): 704171
+  Dragon hunter wand: 8978601
+
+hunter_guild:
+  Guild hunter boots: 0
+  Guild hunter headwear: 0
+  Guild hunter legs: 0
+  Guild hunter top: 0
+  Huntsman's kit: 0
+  Quetzin: 0
+
+kalphite_queen:
+  Kalphite princess: 0
+  Kq head: 0
+  Dragon 2h sword: 131398
+  Dragon chainbody: 183608
+  Dragon pickaxe: 596006
+  Jar of sand: 818502
+
+king_black_dragon:
+  Kbd heads: 0
+  Prince black dragon: 0
+  Dragon pickaxe: 596006
+  Draconic visage: 3177500
+
+kraken:
+  Pet kraken: 0
+  Jar of dirt: 41107
+  Kraken tentacle: 288333
+  Trident of the seas (full): 893847
+
+kree_arra:
+  Pet kree'arra: 0
+  Godsword shard 2: 148701
+  Godsword shard 1: 149716.5
+  Godsword shard 3: 168262.5
+  Armadyl hilt: 6310000
+  Armadyl helmet: 7923320.5
+  Armadyl chainskirt: 23705263
+  Armadyl chestplate: 31803655.5
+
+kril_tsutsaroth:
+  Pet k'ril tsutsaroth: 0
+  Steam battlestaff: 42168
+  Godsword shard 2: 148701
+  Godsword shard 1: 149716.5
+  Godsword shard 3: 168262.5
+  Zamorakian spear: 1220566
+  Staff of the dead: 5376593.5
+  Zamorak hilt: 17000432
+
+last_man_standing:
+  Ancient halo: 0
+  Armadyl halo: 0
+  Bandos halo: 0
+  Brassica halo: 0
+  Deadman's cape: 0
+  Deadman's chest: 0
+  Deadman's legs: 0
+  Golden armadyl special attack: 0
+  Golden bandos special attack: 0
+  Golden saradomin special attack: 0
+  Golden zamorak special attack: 0
+  Guthixian icon: 0
+  Seren halo: 0
+  Victor's cape (1): 0
+  Victor's cape (10): 0
+  Victor's cape (100): 0
+  Victor's cape (1000): 0
+  Victor's cape (50): 0
+  Victor's cape (500): 0
+  Yellow dark bow paint: 96537
+  Green dark bow paint: 243110.5
+  Blue dark bow paint: 420118
+  Steam staff upgrade kit: 524999.5
+  Lava staff upgrade kit: 526917.5
+  Dragon pickaxe upgrade kit: 624997.5
+  Ornate maul handle: 680171
+  Ward upgrade kit: 838412.5
+  White dark bow paint: 913714
+  Granite clamp: 960988.5
+  Frozen whip mix: 1162879.5
+  Volcanic whip mix: 1229935.5
+  Swift blade: 3327188.5
+
+lost_schematics:
+  Ballistic attractor schematic: 0
+  Bosun's workbench schematic: 0
+  Dragon cannon schematic: 0
+  Dragon helm schematic: 0
+  Dragon keel schematic: 0
+  Dragon salvaging hook schematic: 0
+  Eternal brazier schematic: 0
+  Gale catcher schematic: 0
+  Rosewood & cotton sails schematic: 0
+  Rosewood cargo hold schematic: 0
+  Rosewood hull schematic: 0
+  Salvaging station schematic: 0
+
+maggot_king:
+  Elder venator fang: 0
+  Maggot marquess: 0
+  Crimson kisten: 51100294.5
+
+magic_training_arena:
+  Bones to peaches: 0
+  Beginner wand: 375000
+  Apprentice wand: 798888.5
+  Infinity boots: 813414.5
+  Infinity gloves: 956522
+  Infinity top: 1596254
+  Infinity bottoms: 1824563
+  Infinity hat: 2387262.5
+  Teacher wand: 3000000
+  Mage's book: 4392486.5
+  Master wand: 6735500
+
+mahogany_homes:
+  Amy's saw: 0
+  Carpenter's boots: 0
+  Carpenter's helmet: 0
+  Carpenter's shirt: 0
+  Carpenter's trousers: 0
+  Hosidius blueprints: 0
+  Plank sack: 0
+  Supply crate: 0
+
+master_treasure_trails:
+  Bloodhound: 0
+  Arceuus hood: 502.5
+  Hosidius hood: 800
+  Lovakengj hood: 2204
+  Piscarilius hood: 2558
+  Left eye patch: 2841
+  Greater demon mask: 2998
+  Shayzien hood: 3323
+  Samurai boots: 5578.5
+  Fancy tiara: 9632.5
+  Gloves of darkness: 12195
+  Boots of darkness: 12503.5
+  Hood of darkness: 14604.5
+  Old demon mask: 15649
+  Jungle demon mask: 16542.5
+  Samurai greaves: 21512.5
+  Samurai kasa: 24086
+  Bowl wig: 27450
+  Samurai shirt: 28333
+  Black demon mask: 32264
+  Half moon spectacles: 33503.5
+  Dragon defender ornament kit: 34439.5
+  Tormented ornament kit: 36454.5
+  Lesser demon mask: 36544.5
+  Samurai gloves: 40682.5
+  Robe bottom of darkness: 49000
+  Robe top of darkness: 72670.5
+  Torture ornament kit: 87779
+  Armadyl godsword ornament kit: 91467.5
+  Ale of the gods: 145406
+  Zamorak godsword ornament kit: 178521.5
+  Anguish ornament kit: 190200
+  Mummy's hands: 280967
+  Mummy's feet: 372728
+  Obsidian cape (r): 434546
+  Mummy's legs: 881578.5
+  Mummy's head: 930896
+  Mummy's body: 1181328.5
+  Ankou socks: 1816899
+  Bandos godsword ornament kit: 2158300.5
+  Bucket helm (g): 2297671
+  Ankou gloves: 2496704.5
+  Occult ornament kit: 2925861
+  Dragon kiteshield ornament kit: 3601743.5
+  Dragon platebody ornament kit: 5401166.5
+  Saradomin godsword ornament kit: 6268225.5
+  Ankou's leggings: 6922436
+  Ankou mask: 7820713.5
+  Ring of coins: 11325000.5
+  Ankou top: 13233000
+
+mastering_mixology:
+  Alchemist gloves: 0
+  Alchemist labcoat: 0
+  Alchemist pants: 0
+  Alchemist's amulet: 0
+  Prescription goggles: 0
+  Reagent pouch: 0
+  Chugging barrel (disassembled): 8726515.5
+
+medium_treasure_trails:
+  Gold elegant skirt: 329.5
+  Gold headband: 379.5
+  White headband: 435.5
+  Pink headband: 463.5
+  Green headband: 556.5
+  Gold elegant blouse: 581
+  Red headband: 617.5
+  Brown headband: 684.5
+  Purple elegant skirt: 708.5
+  Shayzien banner: 739
+  Purple elegant legs: 795.5
+  Adamant cane: 816.5
+  Orange boater: 915
+  Hosidius banner: 1002.5
+  Arceuus banner: 1017.5
+  Pink elegant legs: 1022.5
+  Purple elegant shirt: 1064.5
+  Gold elegant legs: 1103
+  White boater: 1131
+  Purple elegant blouse: 1146
+  Yew comp bow: 1260.5
+  Black elegant legs: 1305
+  White elegant skirt: 1382.5
+  Pink elegant blouse: 1477
+  Lovakengj banner: 1512.5
+  Mithril platelegs (g): 1606
+  Adamant kiteshield (t): 1654
+  Adamant shield (h4): 1702
+  Adamant helm (h2): 1777.5
+  Blue boater: 1813.5
+  Bandos stole: 2024.5
+  Pink elegant shirt: 2046
+  Adamant shield (h5): 2376.5
+  Mithril plateskirt (g): 2445.5
+  Ancient stole: 2531.5
+  Adamant helm (h5): 2553
+  Crier hat: 2564.5
+  Adamant shield (h1): 2574.5
+  Pink boater: 2582
+  Crier coat: 2600
+  Purple boater: 2613
+  Mithril plateskirt (t): 2632.5
+  Adamant helm (h1): 2654.5
+  Adamant plateskirt (t): 2706.5
+  Black leprechaun hat: 2709.5
+  Adamant shield (h3): 2711
+  Adamant shield (h2): 2744.5
+  Armadyl stole: 2774.5
+  Crier bell: 2945.5
+  Ancient crozier: 2969.5
+  Adamant plateskirt (g): 3412
+  Adamant helm (h3): 3425
+  Bandos crozier: 3500
+  Black elegant shirt: 3586.5
+  Red boater: 3622.5
+  Adamant full helm (t): 3797
+  Black headband: 3936
+  Cabbage round shield: 4019.5
+  Mithril full helm (t): 4110
+  White unicorn mask: 4262.5
+  Green d'hide body (t): 4672
+  Mithril full helm (g): 4717
+  Mithril kiteshield (g): 4800
+  Adamant platelegs (t): 5036
+  Green d'hide body (g): 5413
+  Gold elegant shirt: 5741
+  Mithril platebody (g): 5845
+  Mithril platebody (t): 6128
+  Black boater: 6703.5
+  Leprechaun hat: 6831
+  Pink elegant skirt: 7250
+  Gnomish firelighter: 7339.5
+  Guthix cloak: 7427
+  Blue headband: 7500
+  Mithril kiteshield (t): 8156.5
+  Mithril platelegs (t): 8671
+  Piscarilius banner: 8958
+  Adamant platebody (t): 9000
+  Adamant platebody (h4): 9029
+  White elegant blouse: 9050.5
+  Adamant platelegs (g): 9252
+  Adamant platebody (h3): 9307.5
+  Armadyl crozier: 9332.5
+  Adamant platebody (h5): 9375
+  Green d'hide chaps (t): 9908
+  Cat mask: 10260
+  Zamorak cloak: 11689.5
+  Adamant full helm (g): 11846.5
+  Ancient cloak: 13005
+  Ancient mitre: 13082
+  Adamant platebody (h2): 14248.5
+  Penguin mask: 14489.5
+  Adamant kiteshield (g): 14666
+  Armadyl cloak: 16736
+  Wolf cloak: 19268.5
+  Black unicorn mask: 19926.5
+  Green boater: 20000
+  Strength amulet (t): 20378.5
+  Saradomin mitre: 20913.5
+  Zamorak mitre: 21119.5
+  Bandos mitre: 21202
+  Armadyl mitre: 21967.5
+  Adamant platebody (g): 23332.5
+  Guthix mitre: 25839.5
+  Wolf mask: 31819
+  Adamant platebody (h1): 40637.5
+  Climbing boots (g): 46250
+  Saradomin cloak: 53750
+  Bandos cloak: 57511
+  Green d'hide chaps (g): 58710
+  Wizard boots: 134663
+  Spiked manacles: 374107
+  Adamant helm (h4): 473044
+  Holy sandals: 1031682
+  Ranger boots: 33857296
+
+mimic:
+  Ring of 3rd age: 1326181.5
+
+miscellaneous:
+  Big bass: 0
+  Big shark: 0
+  Big swordfish: 0
+  Blue egg sac: 0
+  Bottom of sceptre: 0
+  Chewed bones: 0
+  Chompy chick: 0
+  Curved bone: 0
+  Dark totem base: 0
+  Dark totem middle: 0
+  Dark totem top: 0
+  Ecumenical key: 0
+  Expert mining gloves: 0
+  Fresh crab claw: 0
+  Fresh crab shell: 0
+  Giant blue krill: 0
+  Giant key: 0
+  Golden haddock: 0
+  Helmet of the moon: 0
+  Herbi: 0
+  Hespori seed: 0
+  Huge halibut: 0
+  Jeweller's chisel: 0
+  Left skull half: 0
+  Long bone: 0
+  Mining gloves: 0
+  Mossy key: 0
+  Orange egg sac: 0
+  Orangefin: 0
+  Purplefin: 0
+  Right skull half: 0
+  Superior mining gloves: 0
+  Swift marlin: 0
+  Top of sceptre: 0
+  Xeric's talisman (inert): 0
+  Mask of ranul: 11673.5
+  Shaman mask: 23791
+  Dragon spear: 37012.5
+  Shield left half: 65065.5
+  Dragonstone boots: 91387.5
+  Evil chicken wings: 105393
+  Evil chicken feet: 128891
+  Dragon metal lump: 135401.5
+  Evil chicken head: 182123.5
+  Broken zombie helmet: 197126
+  Dragonstone gauntlets: 204867.5
+  Crystal grail: 284176
+  Evil chicken legs: 292099
+  Dragonstone platelegs: 531692
+  Dragon limbs: 643055.5
+  Dragonstone platebody: 691168.5
+  Dragonstone full helm: 850999
+  Merfolk trident: 1126597
+  Squid beak: 1203937
+  Elven signet: 1422942.5
+  Broken zombie axe: 1530000
+  Uncut onyx: 2627863
+  Enhanced crystal teleport seed: 3160146.5
+  Pharaoh's sceptre (uncharged): 6926861.5
+  Dragon warhammer: 16320963
+  Dragon full helm: 47030129
+  Amulet of eternal glory: 54320129.5
+  Dragon metal slice: 56816061.5
+
+monkey_backpacks:
+  Karamjan monkey: 0
+  Kruk jr: 0
+  Maniacal monkey: 0
+  Princely monkey: 0
+  Skeleton monkey: 0
+  Zombie monkey: 0
+
+moons_of_peril:
+  Atlatl dart: 125
+  Blue moon spear: 374952.5
+  Blue moon helm: 662755.5
+  Eclipse atlatl: 786766
+  Eclipse moon helm: 798437
+  Blood moon helm: 836425
+  Blue moon chestplate: 1368082.5
+  Eclipse moon chestplate: 1415150
+  Eclipse moon tassets: 1991000
+  Blue moon tassets: 3024307
+  Blood moon chestplate: 3899544.5
+  Dual macuahuitl: 5453528.5
+  Blood moon tassets: 8835257.5
+
+motherlode_mine:
+  Coal bag: 0
+  Gem bag: 0
+  Prospector boots: 0
+  Prospector helmet: 0
+  Prospector jacket: 0
+  Prospector legs: 0
+
+my_notes:
+  Ancient page: 0
+
+nex:
+  Nexling: 0
+  Nihil shard: 3383
+  Ancient hilt: 33923284.5
+  Zaryte vambraces: 71692392
+  Torva platelegs (damaged): 89250000
+  Torva platebody (damaged): 152149409.5
+  Torva full helm (damaged): 192597897.5
+  Nihil horn: 321900080
+
+obor:
+  Hill giant club: 1129982.5
+
+ocean_encounters:
+  Big pearl: 0
+  Bright pearl: 0
+  Brilliant pearl: 0
+  Enormous pearl: 0
+  Glistening pearl: 0
+  Huge pearl: 0
+  Radiant pearl: 0
+  Shimmering pearl: 0
+  Shiny pearl: 0
+  Small pearl: 0
+  Tiny pearl: 0
+
+pest_control:
+  Elite void robe: 0
+  Elite void top: 0
+  Void knight gloves: 0
+  Void knight mace: 0
+  Void knight robe: 0
+  Void knight top: 0
+  Void mage helm: 0
+  Void melee helm: 0
+  Void ranger helm: 0
+  Void seal(8): 0
+
+phantom_muspah:
+  Ancient icon: 0
+  Charged ice: 0
+  Frozen cache: 0
+  Muphin: 0
+  Ancient essence: 18
+  Venator shard: 12984938
+
+random_events:
+  Beekeeper's boots: 0
+  Beekeeper's gloves: 0
+  Beekeeper's hat: 0
+  Beekeeper's legs: 0
+  Beekeeper's top: 0
+  Camo bottoms: 0
+  Camo helmet: 0
+  Camo top: 0
+  Frog token: 0
+  Lederhosen hat: 0
+  Lederhosen shorts: 0
+  Lederhosen top: 0
+  Mime boots: 0
+  Mime gloves: 0
+  Mime legs: 0
+  Mime mask: 0
+  Mime top: 0
+  Zombie boots: 0
+  Zombie gloves: 0
+  Zombie mask: 0
+  Zombie shirt: 0
+  Zombie trousers: 0
+  Stale baguette: 564863.5
+
+revenants:
+  Revenant ether: 173.5
+  Revenant cave teleport: 670.5
+  Bracelet of ethereum (uncharged): 42590.5
+  Ancient crystal: 150174
+  Amulet of avarice: 400755
+  Ancient emblem: 498752
+  Ancient totem: 997148
+  Ancient statuette: 1995503
+  Thammaron's sceptre (u): 2744227
+  Ancient medallion: 3992001
+  Viggora's chainmace (u): 4389594
+  Ancient effigy: 7987001
+  Craw's bow (u): 14650471
+  Ancient relic: 15975001.5
+
+rogues_den:
+  Rogue boots: 0
+  Rogue gloves: 0
+  Rogue mask: 0
+  Rogue top: 0
+  Rogue trousers: 0
+
+rooftop_agility:
+  Mark of grace: 0
+
+royal_titans:
+  Bran: 0
+  Deadeye prayer scroll: 0
+  Desiccated page: 0
+  Giantsoul amulet (uncharged): 0
+  Mystic vigour prayer scroll: 0
+  Ice element staff crown: 3906500
+  Fire element staff crown: 3961701
+
+sailing_miscellaneous:
+  Dragon cannonball: 1254.5
+  Dragon nails: 11833.5
+  Boat bottle (empty): 20433
+  Narwhal horn: 24255.5
+  Facility bottle (empty): 34505.5
+  Echo pearl: 50064.5
+  Ray barbs: 129893.5
+  Dragon metal sheet: 173000
+  Swift albatross feather: 362269
+  Dragon cannon barrel: 535539.5
+  Broken dragon hook: 1631034.5
+  Bottled storm: 2550501.5
+
+sarachnis:
+  Pristine spider silk: 0
+  Sraracha: 0
+  Giant egg sac(full): 16986.5
+  Jar of eyes: 36957
+  Sarachnis cudgel: 121325
+
+scorpia:
+  Scorpia's offspring: 0
+  Dragon 2h sword: 131398
+  Malediction shard 3: 199850
+  Odium shard 3: 238212.5
+
+scroll_cases:
+  Major beginner scroll case: 0
+  Major easy scroll case: 0
+  Major elite scroll case: 0
+  Major hard scroll case: 0
+  Major master scroll case: 0
+  Major medium scroll case: 0
+  Mimic scroll case: 0
+  Minor beginner scroll case: 0
+  Minor easy scroll case: 0
+  Minor elite scroll case: 0
+  Minor hard scroll case: 0
+  Minor master scroll case: 0
+  Minor medium scroll case: 0
+
+scurrius:
+  Scurrius' spine: 0
+  Scurry: 0
+
+sea_treasures:
+  Broken compass: 0
+  Broken sextant: 0
+  Dull knife: 0
+  Medallion fragment: 0
+  Mouldy block: 0
+  Mouldy doll: 0
+  Rusty coin: 0
+  Rusty locket: 0
+  Sailors' amulet (inert): 0
+  Smashed mirror: 0
+
+shades_of_mortton:
+  Bloody notes: 0
+  Flamtaer bag: 0
+  Tree wizards' journal: 0
+  Zealot's boots: 0
+  Zealot's helm: 0
+  Zealot's robe bottom: 0
+  Zealot's robe top: 0
+  Bronze locks: 5
+  Steel locks: 438
+  Black locks: 1680
+  Fine cloth: 6986
+  Silver locks: 10660
+  Gold locks: 34208.5
+  Amulet of the damned (full): 35585.5
+
+shared_treasure_trail_rewards:
+  Blue firelighter: 38
+  Green firelighter: 48.5
+  Purple firelighter: 60
+  Red firelighter: 75
+  White firelighter: 115
+  Charge dragonstone jewellery scroll: 160.5
+  Pest control teleport: 483
+  Bandos page 3: 618.5
+  Guthix page 4: 688.5
+  Guthix page 3: 698
+  Bandos page 1: 708.5
+  Bandos page 4: 727.5
+  Feldip hills teleport: 743.5
+  Bandos page 2: 803.5
+  Saradomin page 2: 838.5
+  Saradomin page 3: 998
+  Mos le'harmless teleport: 1038
+  Saradomin page 1: 1087
+  Guthix page 1: 1112
+  Guthix page 2: 1132
+  Ancient page 1: 1397
+  Armadyl page 3: 1488
+  Armadyl page 4: 2030
+  Zamorak page 4: 2093.5
+  Zamorak page 3: 2150.5
+  Armadyl page 2: 2275
+  Lunar isle teleport: 2374
+  Ancient page 2: 2405.5
+  Peaceful blessing: 2489.5
+  Armadyl page 1: 2663
+  Zamorak page 1: 3097
+  Lumberyard teleport: 3124.5
+  Holy blessing: 3226.5
+  Tai bwo wannai teleport: 3270
+  Piscatoris teleport: 3565
+  Ancient page 3: 3617.5
+  Ancient page 4: 3800
+  Ancient blessing: 4456
+  Purple sweets: 5095
+  Saradomin page 4: 5308
+  Honourable blessing: 5424
+  Zamorak page 2: 5500
+  Digsite teleport: 5763.5
+  Iorwerth camp teleport: 6157
+  War blessing: 9076.5
+  Nardah teleport: 11041
+  Mort'ton teleport: 13303.5
+  Unholy blessing: 15129
+  Master scroll book (empty): 45730
+  Gilded coif: 457008
+  Gilded hasta: 711550.5
+  Gilded plateskirt: 927999.5
+  Gilded boots: 955033.5
+  Gilded spear: 996500
+  Gilded sq shield: 1266210
+  Gilded med helm: 1643150
+  Gilded d'hide body: 1954121.5
+  Gilded chainbody: 2189869.5
+  Gilded spade: 2609783.5
+  Gilded pickaxe: 3635153.5
+  Gilded axe: 4236945
+  Gilded 2h sword: 4735303
+  Gilded d'hide vambraces: 4827246
+  Gilded d'hide chaps: 5575001
+  Gilded platelegs: 6748242.5
+  Gilded kiteshield: 7410355
+  Gilded full helm: 8263500
+  Gilded platebody: 9632517
+  3rd age vambraces: 12459232
+  Gilded scimitar: 13346719
+  3rd age mage hat: 14027239
+  3rd age range legs: 15146407
+  3rd age range coif: 17167500
+  3rd age robe: 25802881
+  3rd age range top: 27033360
+  3rd age plateskirt: 28213499.5
+  3rd age full helmet: 28359149.5
+  3rd age amulet: 44223500
+  3rd age kiteshield: 66061866.5
+  3rd age platelegs: 71039000
+  3rd age robe top: 110813808
+  3rd age platebody: 137883342
+  3rd age cloak: 275563506
+  3rd age wand: 280000000
+  3rd age druidic staff: 471971055.5
+  3rd age druidic cloak: 637999500
+  3rd age longsword: 901500000
+  3rd age bow: 1011338495.5
+  3rd age druidic robe bottoms: 1559999997.5
+  3rd age axe: 2147483647
+  3rd age druidic robe top: 2147483647
+  3rd age pickaxe: 2147483647
+
+shayzien_armour:
+  Shayzien body (5): 0
+  Shayzien boots (1): 0
+  Shayzien boots (2): 0
+  Shayzien boots (3): 0
+  Shayzien boots (4): 0
+  Shayzien boots (5): 0
+  Shayzien gloves (1): 0
+  Shayzien gloves (2): 0
+  Shayzien gloves (3): 0
+  Shayzien gloves (4): 0
+  Shayzien gloves (5): 0
+  Shayzien greaves (1): 0
+  Shayzien greaves (2): 0
+  Shayzien greaves (3): 0
+  Shayzien greaves (4): 0
+  Shayzien greaves (5): 0
+  Shayzien helm (1): 0
+  Shayzien helm (2): 0
+  Shayzien helm (3): 0
+  Shayzien helm (4): 0
+  Shayzien helm (5): 0
+  Shayzien platebody (1): 0
+  Shayzien platebody (2): 0
+  Shayzien platebody (3): 0
+  Shayzien platebody (4): 0
+
+shellbane_gryphon:
+  Gull: 0
+  Jar of feathers: 0
+  Gryphon feather: 23
+  Belle's folly (tarnished): 99140.5
+
+shooting_stars:
+  Celestial ring (uncharged): 0
+  Star fragment: 0
+
+skilling_pets:
+  Baby chinchompa: 0
+  Beaver: 0
+  Giant squirrel: 0
+  Heron: 0
+  Rift guardian: 0
+  Rock golem: 0
+  Rocky: 0
+  Soup: 0
+  Tangleroot: 0
+
+skotizo:
+  Ancient shard: 0
+  Dark claw: 0
+  Dark totem: 0
+  Skotos: 0
+  Jar of darkness: 346420.5
+  Uncut onyx: 2627863
+
+slayer:
+  Abyssal head: 0
+  Alchemist's signet: 0
+  Basilisk head: 0
+  Cockatrice head: 0
+  Crawling hand: 0
+  Flippers: 0
+  Hydra's eye: 0
+  Hydra's fang: 0
+  Hydra's heart: 0
+  Kurask head: 0
+  Mudskipper hat: 0
+  Pendant of ates (inert): 0
+  Gryphon feather: 23
+  Bronze boots: 255.5
+  Dragon thrownaxe: 303.5
+  Black boots: 344.5
+  Mithril boots: 511.5
+  Adamant boots: 949
+  Steel boots: 1211
+  Venator tooth: 1232.5
+  Frozen tear: 1610
+  Venator fang: 1828.5
+  Dragon knife: 3870
+  Broken antler: 4166
+  Iron boots: 4452.5
+  Mystic gloves (dark): 5027
+  Mystic gloves (light): 6228.5
+  Rune boots: 6856
+  Mystic hat (light): 8427
+  Dust battlestaff: 8759.5
+  Mystic boots (light): 9959
+  Granite longsword: 20372
+  Granite helm: 28204.5
+  Ancient ceremonial mask: 31948.5
+  Ancient ceremonial boots: 32297.5
+  Teleport anchoring scroll: 36061.5
+  Ancient ceremonial gloves: 36312.5
+  Mystic gloves (dusk): 38402.5
+  Broken dragon hasta: 39291.5
+  Uncharged trident: 39788.5
+  Leaf-bladed sword: 39889
+  Mystic hat (dusk): 40750
+  Ancient ceremonial legs: 46859
+  Mystic robe bottom (light): 47363
+  Mystic robe bottom (dark): 48054.5
+  Mist battlestaff: 49713.5
+  Mystic boots (dark): 54236
+  Drake's tooth: 58991.5
+  Leaf-bladed battleaxe: 61983
+  Mystic boots (dusk): 62679.5
+  Mystic hat (dark): 67248
+  Earthbound tecpatl: 69500.5
+  Hydra tail: 71119
+  Mystic robe top (light): 71365
+  Mystic robe top (dark): 72078
+  Ancient ceremonial top: 72914
+  Glacial temotli: 74268.5
+  Sulphur blades: 76008
+  Granite legs: 81420.5
+  Mystic robe bottom (dusk): 83380.5
+  Dragon sword: 90894.5
+  Warped sceptre (uncharged): 93470
+  Mystic robe top (dusk): 95456.5
+  Granite maul: 105579.5
+  Dragon metal sheet: 173000
+  Dragon chainbody: 183608
+  Drake's claw: 192834
+  Dragon boots: 218076.5
+  Dagon'hai hat: 282610.5
+  Kraken tentacle: 288333
+  Brine sabre: 337100
+  Occult necklace: 337868
+  Granite boots: 357962
+  Antler guard: 412051
+  Dagon'hai robe bottom: 413074.5
+  Dagon'hai robe top: 447305.5
+  Dark bow: 500456.5
+  Horn of plenty (empty): 667118.5
+  Aranea boots: 684845.5
+  Black mask (10): 720099
+  Abyssal whip: 792096.5
+  Abyssal dagger: 1184498
+  Aquanite tendon: 1704500
+  Dragon harpoon: 2002435.5
+  Draconic visage: 3177500
+  Blood shard: 7391165.5
+  Eternal gem: 8589918
+  Basilisk jaw: 13187643
+  Wyvern visage: 28090824.5
+  Imbued heart: 65575505
+
+soul_wars:
+  Ectoplasmator: 0
+  Lil' creator: 0
+  Soul cape: 0
+
+temple_trekking:
+  Lumberjack boots: 0
+  Lumberjack hat: 0
+  Lumberjack legs: 0
+  Lumberjack top: 0
+
+tempoross:
+  Big harpoonfish: 0
+  Fish barrel: 0
+  Spirit angler boots: 0
+  Spirit angler headband: 0
+  Spirit angler top: 0
+  Spirit angler waders: 0
+  Spirit flakes: 0
+  Tackle box: 0
+  Tiny tempor: 0
+  Soaked page: 2872.5
+  Tome of water (empty): 687499
+  Dragon harpoon: 2002435.5
+
+the_fight_caves:
+  Fire cape: 0
+  Tzrek-jad: 0
+
+the_gauntlet:
+  Gauntlet cape: 0
+  Youngllef: 0
+  Crystal weapon seed: 349139.5
+  Crystal armour seed: 5522689
+  Enhanced crystal weapon seed: 115552002.5
+
+the_inferno:
+  Infernal cape: 0
+  Jal-nib-rek: 0
+
+the_leviathan:
+  Leviathan's lure: 0
+  Lil'viathan: 0
+  Scarred tablet: 0
+  Smoke quartz: 0
+  Venator vestige: 0
+  Chromium ingot: 44123
+  Awakener's orb: 287544.5
+  Virtus mask: 5027814
+  Virtus robe bottom: 23809300.5
+  Virtus robe top: 29841341.5
+
+the_mad_angel:
+  Aggy: 0
+  Granite dust: 0
+  Jar of light: 0
+  Ardeaglais teleport: 35756.5
+  Hallowfell: 1821533
+
+the_nightmare:
+  Little nightmare: 0
+  Parasitic egg: 0
+  Slepey tablet: 0
+  Jar of dreams: 1460000
+  Nightmare staff: 28628337.5
+  Volatile orb: 35414937
+  Inquisitor's great helm: 89643008.5
+  Eldritch orb: 120602572.5
+  Inquisitor's plateskirt: 137226065.5
+  Inquisitor's hauberk: 139755436
+  Inquisitor's mace: 325582140.5
+  Harmonised orb: 438333317
+
+the_whisperer:
+  Bellator vestige: 0
+  Shadow quartz: 0
+  Siren's staff: 0
+  Sirenic tablet: 0
+  Wisp: 0
+  Chromium ingot: 44123
+  Awakener's orb: 287544.5
+  Virtus mask: 5027814
+  Virtus robe bottom: 23809300.5
+  Virtus robe top: 29841341.5
+
+theatre_of_blood:
+  Holy ornament kit: 0
+  Lil' zik: 0
+  Sanguine dust: 0
+  Sanguine ornament kit: 0
+  Sinhaza shroud tier 1: 0
+  Sinhaza shroud tier 2: 0
+  Sinhaza shroud tier 3: 0
+  Sinhaza shroud tier 4: 0
+  Sinhaza shroud tier 5: 0
+  Vial of blood: 8427
+  Justiciar legguards: 9061500
+  Justiciar chestguard: 10199056
+  Justiciar faceguard: 10607130.5
+  Sanguinesti staff (uncharged): 17488418.5
+  Ghrazi rapier: 23167821.5
+  Avernic defender hilt: 32350577
+  Scythe of vitur (uncharged): 1196100329.5
+
+thermonuclear_smoke_devil:
+  Pet smoke devil: 0
+  Jar of smoke: 78500
+  Dragon chainbody: 183608
+  Occult necklace: 337868
+  Smoke battlestaff: 1918679
+
+tithe_farm:
+  Farmer's boots: 0
+  Farmer's boro trousers: 0
+  Farmer's jacket: 0
+  Farmer's strawhat: 0
+  Gricoller's can: 0
+  Herb sack: 0
+  Seed box: 0
+
+tombs_of_amascut:
+  Ancient remnant: 0
+  Breach of the scarab: 0
+  Cache of runes: 0
+  Cursed phalanx: 0
+  Eye of the corruptor: 0
+  Icthlarin's shroud (tier 1): 0
+  Icthlarin's shroud (tier 2): 0
+  Icthlarin's shroud (tier 3): 0
+  Icthlarin's shroud (tier 4): 0
+  Icthlarin's shroud (tier 5): 0
+  Jewel of amascut: 0
+  Jewel of the sun: 0
+  Masori crafting kit: 0
+  Menaphite ornament kit: 0
+  Remnant of akkha: 0
+  Remnant of ba-ba: 0
+  Remnant of kephri: 0
+  Remnant of zebak: 0
+  Thread of elidinis: 0
+  Tumeken's guardian: 0
+  Elidinis' ward: 3577732.5
+  Lightbearer: 3838867
+  Masori mask: 10753848.5
+  Osmumten's fang: 16519096.5
+  Masori chaps: 27661471.5
+  Masori body: 41265179.5
+  Tumeken's shadow (uncharged): 778396414
+
+tormented_demons:
+  Guthixian temple teleport: 12565
+  Burning claw: 1598500
+  Tormented synapse: 31952932.5
+
+trouble_brewing:
+  Black naval shirt: 0
+  Black navy slacks: 0
+  Black tricorn hat: 0
+  Blue naval shirt: 0
+  Blue navy slacks: 0
+  Blue tricorn hat: 0
+  Bronze fist flag: 0
+  Brown naval shirt: 0
+  Brown navy slacks: 0
+  Brown tricorn hat: 0
+  Cutthroat flag: 0
+  Gilded smile flag: 0
+  Green naval shirt: 0
+  Green navy slacks: 0
+  Green tricorn hat: 0
+  Grey naval shirt: 0
+  Grey navy slacks: 0
+  Grey tricorn hat: 0
+  Lucky shot flag: 0
+  Phasmatys flag: 0
+  Purple naval shirt: 0
+  Purple navy slacks: 0
+  Purple tricorn hat: 0
+  Red naval shirt: 0
+  Red navy slacks: 0
+  Red tricorn hat: 0
+  The stuff: 0
+  Treasure flag: 0
+  Rum: 74359
+
+tzhaar:
+  Toktz-xil-ul: 2359
+  Toktz-xil-ek: 84179.5
+  Tzhaar-ket-om: 158172.5
+  Toktz-ket-xil: 270982
+  Obsidian cape: 488186
+  Toktz-xil-ak: 561113
+  Obsidian helmet: 763995.5
+  Toktz-mej-tal: 766581
+  Obsidian platelegs: 934164.5
+  Obsidian platebody: 1165319
+
+vale_totems:
+  Bow string spool: 0
+  Fletching knife: 0
+  Ent branch: 3900.5
+  Greenman mask: 14270
+
+vardorvis:
+  Blood quartz: 0
+  Butch: 0
+  Executioner's axe head: 0
+  Strangled tablet: 0
+  Ultor vestige: 0
+  Chromium ingot: 44123
+  Awakener's orb: 287544.5
+  Virtus mask: 5027814
+  Virtus robe bottom: 23809300.5
+  Virtus robe top: 29841341.5
+
+venenatis_and_spindel:
+  Venenatis spiderling: 0
+  Fangs of venenatis: 59814.5
+  Treasonous ring: 105555.5
+  Dragon 2h sword: 131398
+  Dragon pickaxe: 596006
+  Voidwaker gem: 33894500
+
+vetion_and_calvarion:
+  Vet'ion jr.: 0
+  Skull of vet'ion: 52067.5
+  Dragon 2h sword: 131398
+  Dragon pickaxe: 596006
+  Ring of the gods: 960547.5
+  Voidwaker blade: 1117905.5
+
+volcanic_mine:
+  Ash covered tome: 0
+  Dragon pickaxe (broken): 0
+  Large water container: 0
+  Prospector boots: 0
+  Prospector helmet: 0
+  Prospector jacket: 0
+  Prospector legs: 0
+  Volcanic mine teleport: 0
+
+vorkath:
+  Vorkath's head: 0
+  Vorki: 0
+  Jar of decay: 38226
+  Dragonbone necklace: 91032.5
+  Draconic visage: 3177500
+  Skeletal visage: 11440750
+
+wintertodt:
+  Bruma torch: 0
+  Phoenix: 0
+  Pyromancer boots: 0
+  Pyromancer garb: 0
+  Pyromancer hood: 0
+  Pyromancer robe: 0
+  Warm gloves: 0
+  Burnt page: 6347.5
+  Dragon axe: 73228
+  Tome of fire (empty): 1569283
+
+yama:
+  Dossier: 0
+  Forgotten lockbox: 0
+  Rite of vile transference: 0
+  Yami: 0
+  Barrel of demonic tallow (full): 16790.5
+  Chasm teleport scroll: 35288.5
+  Oathplate shards: 172900
+  Soulflame horn: 3625716
+  Oathplate helm: 82513975
+  Oathplate chest: 82677635.5
+  Oathplate legs: 83963806.5
+
+zalcano:
+  Smolcano: 0
+  Zalcano shard: 117500
+  Uncut onyx: 2627863
+  Crystal tool seed: 20682031.5
+
+zulrah:
+  Magma mutagen: 0
+  Pet snakeling: 0
+  Tanzanite mutagen: 0
+  Zulrah's scales: 163
+  Zul-andra teleport: 11330
+  Jar of swamp: 44762.5
+  Uncut onyx: 2627863
+  Magic fang: 3200000
+  Serpentine visage: 3286349.5
+  Tanzanite fang: 9560862

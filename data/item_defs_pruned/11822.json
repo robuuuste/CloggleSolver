@@ -1,0 +1,23 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Godsword shard 3",
+  "examine": "A part of the Godsword blade.",
+  "id": 11822,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Troll Country"
+  ],
+  "sources": [
+    "commander_zilyana",
+    "general_graardor",
+    "kree_arra",
+    "kril_tsutsaroth"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

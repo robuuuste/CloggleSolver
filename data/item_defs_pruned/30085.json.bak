@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Hueycoatl hide",
+  "examine": "Quite mesmerising to look at.",
+  "id": 30085,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ]
+}

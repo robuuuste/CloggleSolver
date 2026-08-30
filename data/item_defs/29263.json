@@ -1,0 +1,72 @@
+{
+  "id": 29263,
+  "name": "Guild hunter headwear",
+  "examine": "The hat of the Hunters.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 144,
+  "yan2d": 161,
+  "zan2d": 2047,
+  "cost": 500,
+  "stackable": 0,
+  "inventoryModel": 52859,
+  "tradeable": false,
+  "geTradeable": false,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "zoom2d": 550,
+  "xOffset2d": 0,
+  "yOffset2d": -2,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    null,
+    "Wear",
+    null,
+    null,
+    "Drop"
+  ],
+  "maleModel0": 50872,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": 59904,
+  "maleHeadModel2": -1,
+  "femaleModel0": 51074,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": 59904,
+  "femaleHeadModel2": -1,
+  "category": 0,
+  "notedID": -1,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 1360,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 29264,
+  "placeholderTemplateId": -1,
+  "params": {
+    "295": 1
+  },
+  "regions": [
+    "Varlamore"
+  ]
+}

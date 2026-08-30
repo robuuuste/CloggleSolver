@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Karamjan monkey",
+  "examine": "A monkey retrieved from the wreckage of Glough's airship laboratory.",
+  "id": 24862,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Karamja"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Shaman mask",
+  "examine": "The mask worn by ogre shamans.",
+  "id": 21838,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Feldip Hills"
+  ],
+  "sources": [
+    "miscellaneous"
+  ],
+  "categories": [
+    "other"
+  ]
+}

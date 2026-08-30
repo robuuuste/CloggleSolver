@@ -1,0 +1,27 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Uncut onyx",
+  "examine": "This would be worth more cut.",
+  "id": 6571,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend",
+    "Tiranwnn",
+    "Varlamore"
+  ],
+  "sources": [
+    "fortis_colosseum",
+    "miscellaneous",
+    "skotizo",
+    "zalcano",
+    "zulrah"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

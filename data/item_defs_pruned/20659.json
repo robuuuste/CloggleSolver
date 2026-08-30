@@ -1,0 +1,21 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Giant Squirrel",
+  "examine": "A giant squirrel with beautiful markings.",
+  "id": 20659,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "all_pets",
+    "skilling_pets"
+  ],
+  "categories": [
+    "other"
+  ]
+}

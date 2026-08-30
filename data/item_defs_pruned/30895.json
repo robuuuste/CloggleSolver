@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Steel ring",
+  "examine": "A very old enchanted ring.",
+  "id": 30895,
+  "wearPos1": 12,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fossil Island"
+  ],
+  "sources": [
+    "deranged_archaeologist"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Ancestral hat",
+  "examine": "The hat of a powerful sorceress from a bygone era.",
+  "id": 21018,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ]
+}

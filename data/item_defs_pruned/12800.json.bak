@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon pickaxe upgrade kit",
+  "examine": "Makes a dragon pickaxe more beautiful.",
+  "id": 12800,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ]
+}

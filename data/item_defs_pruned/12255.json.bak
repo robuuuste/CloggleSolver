@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Armadyl robe legs",
+  "examine": "Leggings from the Armadyl Vestments.",
+  "id": 12255,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Tome of water (empty)",
+  "examine": "An ancient tome containing the secrets of water magic.",
+  "id": 25576,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ],
+  "sources": [
+    "tempoross"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

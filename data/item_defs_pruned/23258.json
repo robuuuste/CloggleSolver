@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Gilded coif",
+  "examine": "Made with 100% golden dragonhide.",
+  "id": 23258,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "gilded"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

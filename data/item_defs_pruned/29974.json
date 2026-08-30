@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Prescription goggles",
+  "examine": "Safety first!",
+  "id": 29974,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "mastering_mixology"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

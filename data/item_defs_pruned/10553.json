@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Penance gloves",
+  "examine": "These gloves seem unbelieveably light!",
+  "id": 10553,
+  "wearPos1": 9,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "barbarian_assault"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

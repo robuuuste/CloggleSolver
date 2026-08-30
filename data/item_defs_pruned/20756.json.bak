@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Hill giant club",
+  "examine": "A brutal weapon popular among giants.",
+  "id": 20756,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Misthalin"
+  ]
+}

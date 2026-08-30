@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Elidinis' ward",
+  "examine": "A ward once used by Elidinis herself.",
+  "id": 25985,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ]
+}

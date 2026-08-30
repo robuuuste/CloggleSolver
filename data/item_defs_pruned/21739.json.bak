@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Granite ring",
+  "examine": "A solid ring.",
+  "id": 21739,
+  "wearPos1": 12,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ]
+}

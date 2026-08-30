@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Bludgeon spine",
+  "examine": "The spine from a deceased Abyssal Sire.",
+  "id": 13274,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes"
+  ],
+  "sources": [
+    "abyssal_sire"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

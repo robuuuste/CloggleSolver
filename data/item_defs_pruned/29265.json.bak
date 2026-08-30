@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Guild hunter top",
+  "examine": "The top of the Hunters.",
+  "id": 29265,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ]
+}

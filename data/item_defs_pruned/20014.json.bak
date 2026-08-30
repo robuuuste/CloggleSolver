@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "3rd age pickaxe",
+  "examine": "A beautifully crafted pickaxe, shaped by ancient smiths.",
+  "id": 20014,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

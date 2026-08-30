@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Black cane",
+  "examine": "A ruby topped cane.",
+  "id": 12375,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "easy_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Pet dark core",
+  "examine": "Isn't so annoying when in pet form.",
+  "id": 12816,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "all_pets",
+    "corporeal_beast"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

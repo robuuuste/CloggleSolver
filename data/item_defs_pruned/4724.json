@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Guthan's helm",
+  "examine": "Guthan the Infested's helm.",
+  "id": 4724,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "barrows_chests"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

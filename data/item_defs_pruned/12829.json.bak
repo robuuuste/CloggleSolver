@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Spirit shield",
+  "examine": "An ethereal shield.",
+  "id": 12829,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ]
+}

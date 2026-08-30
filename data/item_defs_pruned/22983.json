@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Hydra leather",
+  "examine": "Hide from a ferocious Hydra. It looks pretty tough.",
+  "id": 22983,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "alchemical_hydra"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Katana",
+  "examine": "Created by Hattori Hanzo in the Eastern Lands.",
+  "id": 12357,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Shayzien platebody (4)",
+  "examine": "Dress like a tier 4 Shayzien soldier.",
+  "id": 13376,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "shayzien_armour"
+  ],
+  "categories": [
+    "other"
+  ]
+}

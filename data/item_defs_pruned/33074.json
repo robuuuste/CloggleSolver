@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Facility bottle (empty)",
+  "examine": "With proper application of directed exhalations, this complicated technology doubles as a folk instrument.",
+  "id": 33074,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "sailing_miscellaneous"
+  ],
+  "categories": [
+    "other"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Atlatl dart",
+  "examine": "Quite big for a dart.",
+  "id": 28991,
+  "wearPos1": 13,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ]
+}

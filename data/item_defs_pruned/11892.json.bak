@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Zamorak banner",
+  "examine": "The Zamorak Team Standard.",
+  "id": 11892,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Kandarin"
+  ]
+}

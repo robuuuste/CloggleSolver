@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Victor's cape (1)",
+  "examine": "Shows your prowess in Last Man Standing.",
+  "id": 24207,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Wilderness"
+  ]
+}

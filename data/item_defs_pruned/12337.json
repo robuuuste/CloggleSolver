@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Sagacious spectacles",
+  "examine": "Do they make me look... old?",
+  "id": 12337,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "elite_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

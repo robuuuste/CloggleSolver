@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Castlewars hood",
+  "examine": "The colours of Zamorak.",
+  "id": 4515,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "castle_wars"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

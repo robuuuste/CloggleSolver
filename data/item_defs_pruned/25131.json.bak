@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Beekeeper's top",
+  "examine": "According to the laws of aviation, there is no way that a bee should be able to fly.",
+  "id": 25131,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Odium shard 2",
+  "examine": "A broken shield piece.",
+  "id": 11929,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "crazy_archaeologist"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

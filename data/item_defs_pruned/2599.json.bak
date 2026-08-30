@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Adamant platebody (t)",
+  "examine": "Adamant platebody with trim.",
+  "id": 2599,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

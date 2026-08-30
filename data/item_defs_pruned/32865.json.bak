@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Dull knife",
+  "examine": "A dull knife that was presumably once used for food preparation.",
+  "id": 32865,
+  "wearPos1": 2,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

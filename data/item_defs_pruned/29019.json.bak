@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Blue moon helm",
+  "examine": "The helm of the Blue Moon.",
+  "id": 29019,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ]
+}

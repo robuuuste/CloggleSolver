@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Steel full helm (g)",
+  "examine": "A steel full helmet with gold trim.",
+  "id": 20178,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

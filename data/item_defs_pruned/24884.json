@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Supply crate",
+  "examine": "Some stuff you might find handy for Construction.",
+  "id": 24884,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ],
+  "sources": [
+    "mahogany_homes"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

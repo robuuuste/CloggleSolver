@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Light bow tie",
+  "examine": "Bow ties are cool.",
+  "id": 19985,
+  "wearPos1": 2,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "elite_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

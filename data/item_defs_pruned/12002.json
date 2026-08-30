@@ -1,0 +1,22 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Occult necklace",
+  "examine": "A smokey evil embodies this amulet.",
+  "id": 12002,
+  "wearPos1": 2,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "slayer",
+    "thermonuclear_smoke_devil"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

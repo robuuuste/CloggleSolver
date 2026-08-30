@@ -1,0 +1,78 @@
+{
+  "id": 31954,
+  "name": "Narwhal horn",
+  "examine": "The sharp horn of a narwhal.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 328,
+  "yan2d": 1589,
+  "zan2d": 0,
+  "cost": 8000,
+  "stackable": 0,
+  "inventoryModel": 57961,
+  "tradeable": true,
+  "geTradeable": true,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "colorFind": [
+    5431
+  ],
+  "colorReplace": [
+    10283
+  ],
+  "zoom2d": 2039,
+  "xOffset2d": -3,
+  "yOffset2d": 32,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    "Drop"
+  ],
+  "maleModel0": -1,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": -1,
+  "maleHeadModel2": -1,
+  "femaleModel0": -1,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": -1,
+  "femaleHeadModel2": -1,
+  "category": 0,
+  "notedID": 31955,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 1500,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 31956,
+  "placeholderTemplateId": -1,
+  "params": {
+    "2382": 1
+  },
+  "regions": [
+    "Varies"
+  ]
+}

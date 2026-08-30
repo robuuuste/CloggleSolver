@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Chompy bird hat",
+  "examine": "A symbol of your chompy bird hunting prowess: Marksman (125 kills)",
+  "id": 2983,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Feldip Hills"
+  ]
+}

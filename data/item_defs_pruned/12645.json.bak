@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Pet Dagannoth Rex",
+  "examine": "They do say if you like it you should put a ring on it.",
+  "id": 12645,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fremennik Province"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Zamorak kiteshield",
+  "examine": "Rune kiteshield in the colours of Zamorak.",
+  "id": 2659,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

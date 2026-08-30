@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Rune satchel",
+  "examine": "I can keep my grub in here!",
+  "id": 25623,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "creature_creation"
+  ],
+  "categories": [
+    "other"
+  ]
+}

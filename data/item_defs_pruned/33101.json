@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Mooleta",
+  "examine": "A defensive weapon.",
+  "id": 33101,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Misthalin"
+  ],
+  "sources": [
+    "brutus"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

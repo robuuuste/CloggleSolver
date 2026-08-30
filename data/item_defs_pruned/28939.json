@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Sunfire fanatic chausses",
+  "examine": "Chausses forged from sunfire.",
+  "id": 28939,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "fortis_colosseum"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

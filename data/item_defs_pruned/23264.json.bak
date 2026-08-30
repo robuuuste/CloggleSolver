@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Gilded d'hide body",
+  "examine": "Made with 100% golden dragonhide.",
+  "id": 23264,
+  "wearPos1": 4,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Pet Dagannoth Supreme",
+  "examine": "Wouldn't want that sleeping at the end of my bed.",
+  "id": 12643,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fremennik Province"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Agility arena ticket",
+  "examine": "I can exchange these for further experience or items.",
+  "id": 2996,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Karamja"
+  ]
+}

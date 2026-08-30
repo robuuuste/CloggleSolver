@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Gnome goggles",
+  "examine": "Tally Ho!",
+  "id": 9472,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "gnome_restaurant"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

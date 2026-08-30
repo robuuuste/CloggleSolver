@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon cane",
+  "examine": "An onyx topped cane.",
+  "id": 12373,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "elite_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

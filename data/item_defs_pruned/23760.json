@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Smolcano",
+  "examine": "Not so threatening at this size.",
+  "id": 23760,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Tiranwnn"
+  ],
+  "sources": [
+    "all_pets",
+    "zalcano"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

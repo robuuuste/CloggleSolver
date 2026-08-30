@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Justiciar chestguard",
+  "examine": "A Justiciar's chestguard. They once roamed the land casting judgements on wrongdoers, their decisions were never questioned.",
+  "id": 22327,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "theatre_of_blood"
+  ],
+  "categories": [
+    "raids"
+  ]
+}

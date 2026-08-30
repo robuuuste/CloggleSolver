@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Gilded 2h sword",
+  "examine": "A two handed sword with gold plate.",
+  "id": 20155,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

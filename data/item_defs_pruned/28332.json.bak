@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Scarred tablet",
+  "examine": "Strange glowing symbols are inscribed upon this tablet.",
+  "id": 28332,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes"
+  ]
+}

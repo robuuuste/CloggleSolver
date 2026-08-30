@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Treasonous ring",
+  "examine": "A razor sharp ring.",
+  "id": 12605,
+  "wearPos1": 12,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "venenatis_and_spindel"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

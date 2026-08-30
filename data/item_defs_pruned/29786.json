@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Jar of venom",
+  "examine": "Handy that this comes in an easily transportable jar.",
+  "id": 29786,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "araxxor"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

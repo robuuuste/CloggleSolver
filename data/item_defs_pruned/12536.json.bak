@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon legs/skirt ornament kit",
+  "examine": "Use on dragon platelegs or plateskirt to make them look fancier!",
+  "id": 12536,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Royal crown",
+  "examine": "Who said I'd never be royal?",
+  "id": 12397,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "elite_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

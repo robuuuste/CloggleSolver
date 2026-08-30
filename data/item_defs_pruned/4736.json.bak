@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Karil's leathertop",
+  "examine": "Karil the Tainted's leather body armour.",
+  "id": 4736,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Mime gloves",
+  "examine": "A mime would wear these.",
+  "id": 3060,
+  "wearPos1": 9,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "random_events"
+  ],
+  "categories": [
+    "other"
+  ]
+}

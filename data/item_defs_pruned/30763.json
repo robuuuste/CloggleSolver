@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Forgotten lockbox",
+  "examine": "Once stored by somebody in Yama's vaults, but now forgotten.",
+  "id": 30763,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "yama"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

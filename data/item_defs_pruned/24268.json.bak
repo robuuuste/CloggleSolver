@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Basilisk jaw",
+  "examine": "The jaw of a Basilisk Knight.",
+  "id": 24268,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fremennik Province"
+  ]
+}

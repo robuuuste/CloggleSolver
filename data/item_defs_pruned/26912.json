@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Lost bag",
+  "examine": "A bag with strange markings on it... How did it fit into that small pouch?",
+  "id": 26912,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes"
+  ],
+  "sources": [
+    "guardians_of_the_rift"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

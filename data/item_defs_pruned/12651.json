@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Pet Zilyana",
+  "examine": "Somehow a junior even though she's named after her spawn mother!",
+  "id": 12651,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Troll Country"
+  ],
+  "sources": [
+    "all_pets",
+    "commander_zilyana"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

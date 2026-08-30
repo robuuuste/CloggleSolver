@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Seercull",
+  "examine": "An ancient Fremennik bow that was once used to battle the Moon Clan.",
+  "id": 6724,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fremennik Province"
+  ],
+  "sources": [
+    "dagannoth_kings"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

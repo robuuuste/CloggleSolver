@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": false,
+  "name": "Radiant pearl",
+  "examine": "Looks unbelievably valuable.",
+  "id": 31800,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

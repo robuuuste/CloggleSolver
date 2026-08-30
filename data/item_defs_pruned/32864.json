@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Mouldy block",
+  "examine": "A mouldy wooden block that might have once been part of a toy.",
+  "id": 32864,
+  "wearPos1": 2,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "sea_treasures"
+  ],
+  "categories": [
+    "other"
+  ]
+}

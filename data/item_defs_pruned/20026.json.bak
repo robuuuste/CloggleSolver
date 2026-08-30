@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Black demon mask",
+  "examine": "Evil.",
+  "id": 20026,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

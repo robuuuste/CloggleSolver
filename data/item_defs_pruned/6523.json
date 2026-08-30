@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Toktz-xil-ak",
+  "examine": "A razor sharp sword of obsidian.",
+  "id": 6523,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Karamja"
+  ],
+  "sources": [
+    "tzhaar"
+  ],
+  "categories": [
+    "other"
+  ]
+}

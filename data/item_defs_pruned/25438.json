@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Zealot's helm",
+  "examine": "A well fashioned helmet with a strange aura emanating.",
+  "id": 25438,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "shades_of_mortton"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

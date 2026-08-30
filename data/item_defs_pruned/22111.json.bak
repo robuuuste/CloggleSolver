@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragonbone necklace",
+  "examine": "A necklace made out of dragon bones.",
+  "id": 22111,
+  "wearPos1": 2,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands"
+  ]
+}

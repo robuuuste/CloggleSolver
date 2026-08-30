@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Hood of darkness",
+  "examine": "A dark power is woven into this hood.",
+  "id": 20128,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "master_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

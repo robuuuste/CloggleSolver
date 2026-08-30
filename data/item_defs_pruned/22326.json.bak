@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Justiciar faceguard",
+  "examine": "A helm that once belonged to a Justiciar, a loyal zealot of Saradomin.",
+  "id": 22326,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ]
+}

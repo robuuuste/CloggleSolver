@@ -1,0 +1,83 @@
+{
+  "id": 30750,
+  "name": "Oathplate helm",
+  "examine": "A helm forged from infernal metal.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 71,
+  "yan2d": 183,
+  "zan2d": 0,
+  "cost": 200000,
+  "stackable": 0,
+  "inventoryModel": 56221,
+  "tradeable": true,
+  "geTradeable": true,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": true,
+  "zoom2d": 900,
+  "xOffset2d": 0,
+  "yOffset2d": -2,
+  "ambient": 10,
+  "contrast": 15,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    null,
+    "Wear",
+    null,
+    null,
+    "Drop"
+  ],
+  "maleModel0": 56300,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": 8363,
+  "maleHeadModel2": -1,
+  "femaleModel0": 56294,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": 8363,
+  "femaleHeadModel2": -1,
+  "category": 2,
+  "notedID": 30751,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 2721,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 30752,
+  "placeholderTemplateId": -1,
+  "params": {
+    "1": 10,
+    "434": 1,
+    "3": -2,
+    "4": -7,
+    "436": 78,
+    "5": 50,
+    "6": 72,
+    "7": 45,
+    "8": 0,
+    "9": 50,
+    "41": 1,
+    "10": 6
+  },
+  "regions": [
+    "Great Kourend"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Gold locks",
+  "examine": "Perhaps someone can do something with this.",
+  "id": 25454,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "shades_of_mortton"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

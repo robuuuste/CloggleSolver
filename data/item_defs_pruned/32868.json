@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Broken sextant",
+  "examine": "A long-broken sextant that would have been used to navigate the seas.",
+  "id": 32868,
+  "wearPos1": 2,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "sea_treasures"
+  ],
+  "categories": [
+    "other"
+  ]
+}

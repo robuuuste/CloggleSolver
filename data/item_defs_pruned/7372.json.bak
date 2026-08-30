@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Green d'hide body (t)",
+  "examine": "Made from 100% real dragonhide. With colourful trim!",
+  "id": 7372,
+  "wearPos1": 4,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

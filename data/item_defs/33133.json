@@ -1,0 +1,75 @@
+{
+  "id": 33133,
+  "name": "Pristine spider silk",
+  "examine": "It's a sheet of fine silk.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 407,
+  "yan2d": 1274,
+  "zan2d": 0,
+  "cost": 1000,
+  "stackable": 0,
+  "inventoryModel": 2725,
+  "tradeable": false,
+  "geTradeable": false,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "colorFind": [
+    7390
+  ],
+  "colorReplace": [
+    127
+  ],
+  "zoom2d": 1488,
+  "xOffset2d": 5,
+  "yOffset2d": 12,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    null,
+    null,
+    null,
+    null,
+    "Drop"
+  ],
+  "maleModel0": -1,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": -1,
+  "maleHeadModel2": -1,
+  "femaleModel0": -1,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": -1,
+  "femaleHeadModel2": -1,
+  "category": 0,
+  "notedID": -1,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 1000,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 33134,
+  "placeholderTemplateId": -1,
+  "regions": [
+    "Great Kourend"
+  ]
+}

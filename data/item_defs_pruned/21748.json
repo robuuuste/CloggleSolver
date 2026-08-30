@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Noon",
+  "examine": "The mini Guardian of Dawn!",
+  "id": 21748,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "all_pets",
+    "grotesque_guardians"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

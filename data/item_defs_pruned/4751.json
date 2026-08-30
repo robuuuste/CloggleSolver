@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Torag's platelegs",
+  "examine": "Torag the Corrupted's plate leg armour.",
+  "id": 4751,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "barrows_chests"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

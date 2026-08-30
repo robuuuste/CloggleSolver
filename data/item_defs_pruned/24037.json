@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragonstone platebody",
+  "examine": "A stylish rune platebody inlaid with dragonstones.",
+  "id": 24037,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Tiranwnn"
+  ],
+  "sources": [
+    "miscellaneous"
+  ],
+  "categories": [
+    "other"
+  ]
+}

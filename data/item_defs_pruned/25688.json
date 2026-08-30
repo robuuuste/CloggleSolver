@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Ancient ledger",
+  "examine": "A petrified book. This belongs in a museum.",
+  "id": 25688,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Asgarnia"
+  ],
+  "sources": [
+    "camdozaal"
+  ],
+  "categories": [
+    "other"
+  ]
+}

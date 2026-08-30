@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Pirate's hook",
+  "examine": "You should see the shark...",
+  "id": 2997,
+  "wearPos1": 9,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Karamja"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Gwyna's fabric roll",
+  "examine": "A roll of fabric presented by Gwyna for achieving Marlin rank in the Gwenith Glide.",
+  "id": 31758,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Zamorak crozier",
+  "examine": "A Zamorak crozier.",
+  "id": 10444,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "hard_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

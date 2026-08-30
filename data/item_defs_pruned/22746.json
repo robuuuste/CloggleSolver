@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Ikkle Hydra",
+  "examine": "How does it not fall over?",
+  "id": 22746,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "alchemical_hydra",
+    "all_pets"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

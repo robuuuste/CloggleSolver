@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Mime mask",
+  "examine": "A mime would wear this.",
+  "id": 3057,
+  "wearPos1": 0,
+  "wearPos2": 11,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

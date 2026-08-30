@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Chompy chick",
+  "examine": "A small boisterous bird, a delicacy for ogres.",
+  "id": 13071,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Feldip Hills"
+  ]
+}

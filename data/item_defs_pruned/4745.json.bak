@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Torag's helm",
+  "examine": "Torag the Corrupted's helm.",
+  "id": 4745,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ]
+}

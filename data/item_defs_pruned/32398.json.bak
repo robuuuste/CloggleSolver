@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Sailors' amulet (inert)",
+  "examine": "An old crewhand's trinket. It currently doesn't seem to do anything.",
+  "id": 32398,
+  "wearPos1": 2,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

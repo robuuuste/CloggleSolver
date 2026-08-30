@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Barronite guard",
+  "examine": "A chunky piece of barronite.",
+  "id": 25639,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Asgarnia"
+  ]
+}

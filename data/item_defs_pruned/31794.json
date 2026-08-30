@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": false,
+  "name": "Glistening pearl",
+  "examine": "Looks incredibly valuable.",
+  "id": 31794,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "ocean_encounters"
+  ],
+  "categories": [
+    "other"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Zombie mask",
+  "examine": "I look 40,000 years old in this...",
+  "id": 7594,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": false,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "random_events"
+  ],
+  "categories": [
+    "other"
+  ]
+}

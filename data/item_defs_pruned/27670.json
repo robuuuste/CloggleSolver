@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Fangs of venenatis",
+  "examine": "The fangs of a matriarch spider. They seem to maintain a sense of her power.",
+  "id": 27670,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "venenatis_and_spindel"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

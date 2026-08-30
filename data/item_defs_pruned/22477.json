@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Avernic defender hilt",
+  "examine": "Perhaps this could be used to create a defensive weapon.",
+  "id": 22477,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "theatre_of_blood"
+  ],
+  "categories": [
+    "raids"
+  ]
+}

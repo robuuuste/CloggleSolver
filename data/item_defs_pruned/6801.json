@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Goblin champion scroll",
+  "examine": "It's a challenge from the Goblin Champion!",
+  "id": 6801,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "champions_challenge"
+  ],
+  "categories": [
+    "other"
+  ]
+}

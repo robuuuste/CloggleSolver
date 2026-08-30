@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Jester cape",
+  "examine": "A jester cape.",
+  "id": 23297,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "beginner_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

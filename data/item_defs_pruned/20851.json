@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Olmlet",
+  "examine": "The cuddly Spawn of the Guardian in the Deep.",
+  "id": 20851,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "all_pets",
+    "chambers_of_xeric"
+  ],
+  "categories": [
+    "other",
+    "raids"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Lil' Creator",
+  "examine": "A pint-sized bringer of existence.",
+  "id": 25348,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands"
+  ],
+  "sources": [
+    "all_pets",
+    "soul_wars"
+  ],
+  "categories": [
+    "minigames",
+    "other"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Kruk jr",
+  "examine": "A monkey retrieved from the wreckage of Glough's airship laboratory.",
+  "id": 24866,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Karamja"
+  ]
+}

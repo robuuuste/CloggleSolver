@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Magma mutagen",
+  "examine": "Triggers mutation in a serpentine helm.",
+  "id": 13201,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Tiranwnn"
+  ]
+}

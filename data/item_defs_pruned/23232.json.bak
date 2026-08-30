@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Tzhaar-ket-om ornament kit",
+  "examine": "Use on the TzHaar-ket-om to trim and spike it.",
+  "id": 23232,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Helmet of the moon",
+  "examine": "A helmet forged from moonlight.",
+  "id": 30111,
+  "wearPos1": 0,
+  "wearPos2": 11,
+  "wearPos3": 8,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "miscellaneous"
+  ],
+  "categories": [
+    "other"
+  ]
+}

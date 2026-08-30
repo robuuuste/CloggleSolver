@@ -1,0 +1,17 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Virtus robe bottom",
+  "examine": "An ancient mage's robe bottom.",
+  "id": 26245,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia",
+    "Great Kourend",
+    "Other Planes",
+    "Troll Country"
+  ]
+}

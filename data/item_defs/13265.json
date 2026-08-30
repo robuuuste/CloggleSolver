@@ -1,0 +1,82 @@
+{
+  "id": 13265,
+  "name": "Abyssal dagger",
+  "examine": "Something sharp from the body of a defeated Abyssal Sire.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 1589,
+  "yan2d": 781,
+  "zan2d": 0,
+  "cost": 115001,
+  "stackable": 0,
+  "inventoryModel": 29598,
+  "tradeable": true,
+  "geTradeable": true,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "zoom2d": 1347,
+  "xOffset2d": -5,
+  "yOffset2d": 3,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    null,
+    "Wield",
+    null,
+    null,
+    "Drop"
+  ],
+  "maleModel0": 29425,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": -1,
+  "maleHeadModel2": -1,
+  "femaleModel0": 42619,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": -1,
+  "femaleHeadModel2": -1,
+  "category": 25,
+  "notedID": 13266,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 453,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 18629,
+  "placeholderTemplateId": -1,
+  "params": {
+    "0": 75,
+    "1": 40,
+    "434": 0,
+    "2": -4,
+    "3": 1,
+    "436": 70,
+    "8": 1,
+    "10": 75,
+    "1564": 3,
+    "14": 4
+  },
+  "regions": [
+    "Other Planes",
+    "Varies"
+  ]
+}

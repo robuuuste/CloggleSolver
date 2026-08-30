@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Rogue mask",
+  "examine": "Black banded leather armour, a rogue's dream!",
+  "id": 5554,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ]
+}

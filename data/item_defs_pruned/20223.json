@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Unholy blessing",
+  "examine": "The Dark Lord will rise again with his servant's aid, greater and more terrible than ever he was.",
+  "id": 20223,
+  "wearPos1": 13,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "shared_treasure_trail_rewards"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

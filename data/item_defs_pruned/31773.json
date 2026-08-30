@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": false,
+  "name": "Small pearl",
+  "examine": "Looks like it might be worth some money.",
+  "id": 31773,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "ocean_encounters"
+  ],
+  "categories": [
+    "other"
+  ]
+}

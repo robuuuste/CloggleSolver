@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Nightmare staff",
+  "examine": "An ancient staff corrupted by darkness.",
+  "id": 24422,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "the_nightmare"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon harpoon",
+  "examine": "A very powerful harpoon.",
+  "id": 21028,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend",
+    "Kharidian Desert"
+  ]
+}

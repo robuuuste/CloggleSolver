@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Honourable blessing",
+  "examine": "Law is not law if it violates the principles of eternal justice.",
+  "id": 20229,
+  "wearPos1": 13,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "shared_treasure_trail_rewards"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

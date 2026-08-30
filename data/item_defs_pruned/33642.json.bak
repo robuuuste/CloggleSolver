@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Maggot marquess",
+  "examine": "Best not to think too much about the venator it inhabits.",
+  "id": 33642,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes"
+  ]
+}

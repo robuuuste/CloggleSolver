@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Rogue top",
+  "examine": "Black banded leather armour, a rogue's dream!",
+  "id": 5553,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ],
+  "sources": [
+    "rogues_den"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

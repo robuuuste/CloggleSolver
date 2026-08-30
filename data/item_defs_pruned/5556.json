@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Rogue gloves",
+  "examine": "Black banded leather gloves, a rogue's dream!",
+  "id": 5556,
+  "wearPos1": 9,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ],
+  "sources": [
+    "rogues_den"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

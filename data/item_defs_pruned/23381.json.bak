@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Leather body (g)",
+  "examine": "Better than no armour! Nice trim too!",
+  "id": 23381,
+  "wearPos1": 4,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

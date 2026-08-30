@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Bloodhound",
+  "examine": "Tracking down clues all over the world.",
+  "id": 19730,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "all_pets",
+    "master_treasure_trails"
+  ],
+  "categories": [
+    "clues",
+    "other"
+  ]
+}

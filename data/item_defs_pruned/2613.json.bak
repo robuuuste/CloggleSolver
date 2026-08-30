@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Adamant full helm (g)",
+  "examine": "Adamant full helmet with gold trim.",
+  "id": 2613,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

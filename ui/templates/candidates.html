@@ -1,0 +1,228 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Candidates</title>
+  <style>
+    :root {
+      --bg: #eef2ff;
+      --bg-accent: #dfe7ff;
+      --panel: #ffffff;
+      --panel-soft: #f8faff;
+      --line: #dbe3f1;
+      --text: #172033;
+      --muted: #58657f;
+      --accent: #3b82f6;
+      --accent-strong: #1d4ed8;
+      --shadow: 0 12px 30px rgba(31, 41, 55, 0.08);
+    }
+
+    body[data-theme="dark"] {
+      --bg: #0f172a;
+      --bg-accent: #111827;
+      --panel: #111c2d;
+      --panel-soft: #152136;
+      --line: #243247;
+      --text: #e5eefb;
+      --muted: #9fb0cc;
+      --accent: #7cc7ff;
+      --accent-strong: #4da3ff;
+      --shadow: 0 18px 40px rgba(2, 6, 23, 0.45);
+    }
+
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      min-height: 100%;
+      background: linear-gradient(180deg, var(--bg) 0%, var(--bg-accent) 100%);
+      color: var(--text);
+      font-family: "Segoe UI", Arial, sans-serif;
+    }
+
+    body { padding: 30px 18px 50px; }
+    .shell {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding: 18px 20px;
+      margin-bottom: 18px;
+    }
+
+    .theme-toggle {
+      border: 1px solid var(--line);
+      background: var(--panel-soft);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 8px 12px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.8rem, 2vw, 2.4rem);
+      letter-spacing: -0.06em;
+      font-weight: 700;
+    }
+
+    .badge {
+      padding: 8px 12px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: var(--panel-soft);
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .suggest {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      padding: 16px 18px;
+      margin-bottom: 18px;
+      background: var(--panel-soft);
+      flex-wrap: wrap;
+    }
+
+    .primary-btn {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+      color: #fff;
+      padding: 10px 15px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+      box-shadow: 0 8px 18px rgba(59, 130, 246, 0.2);
+    }
+
+    .table-panel { padding: 18px 20px; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+    }
+
+    th, td {
+      border-bottom: 1px solid var(--line);
+      padding: 11px 12px;
+      text-align: left;
+      vertical-align: top;
+      overflow-wrap: break-word;
+    }
+
+    th {
+      background: var(--panel-soft);
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-size: 0.72rem;
+    }
+
+    tbody tr:last-child td { border-bottom: none; }
+
+    a {
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <div class="panel topbar">
+      <h1>Candidates</h1>
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <button type="button" class="theme-toggle" id="theme-toggle">Dark mode</button>
+        <span class="badge">{{ count }} total</span>
+      </div>
+    </div>
+
+    {% if suggestion %}
+      <div class="panel suggest">
+        <div>
+          <strong>Suggested next guess:</strong> {{ suggestion }} {% if suggestion_score is not none %}(score: {{ '%.2f' % suggestion_score }}){% endif %}
+        </div>
+        <button class="primary-btn" id="use-suggestion" type="button">Use suggestion</button>
+      </div>
+    {% endif %}
+
+    <div class="panel table-panel">
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Tradeable</th>
+            <th>Price</th>
+            <th>Equipment Slot</th>
+            <th>Region</th>
+            <th>Category</th>
+            <th>Source</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for it in candidates %}
+            <tr>
+              <td>{{ it.name }}</td>
+              <td>{{ 'Yes' if it.tradeable else 'No' }}</td>
+              <td>{{ format_price(it.price) if it.price is not none else "?" }}</td>
+              <td>{{ it.equipment_slot or "-" }}</td>
+              <td>{{ it.regions|join(", ") or "-" }}</td>
+              <td>{{ it.categories|join(", ") or "-" }}</td>
+              <td>{{ it.sources|join(", ") or "-" }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <p><a href="/">Back</a></p>
+  </div>
+
+  <script>
+    const themeToggle = document.getElementById("theme-toggle");
+    const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const savedTheme = window.localStorage.getItem("themePreference");
+    const theme = savedTheme || (prefersDark ? "dark" : "light");
+    document.body.setAttribute("data-theme", theme);
+    if (themeToggle) {
+      themeToggle.textContent = theme === "dark" ? "Light mode" : "Dark mode";
+    }
+
+    document.getElementById("use-suggestion")?.addEventListener("click", function () {
+      const suggestion = {{ suggestion|tojson if suggestion is not none else 'null' }};
+      if (!suggestion) {
+        return;
+      }
+      window.sessionStorage.setItem("pendingSuggestion", suggestion);
+      window.location.href = "/";
+    });
+
+    themeToggle?.addEventListener("click", function () {
+      const nextTheme = document.body.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      document.body.setAttribute("data-theme", nextTheme);
+      window.localStorage.setItem("themePreference", nextTheme);
+      themeToggle.textContent = nextTheme === "dark" ? "Light mode" : "Dark mode";
+    });
+  </script>
+</body>
+</html>

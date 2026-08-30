@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Scorpia's offspring",
+  "examine": "A scuttling little scorpion with an incredibly vicious tail.",
+  "id": 13181,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "all_pets",
+    "scorpia"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

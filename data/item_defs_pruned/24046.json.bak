@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragonstone gauntlets",
+  "examine": "A stylish pair of rune gauntlets inlaid with dragonstones.",
+  "id": 24046,
+  "wearPos1": 9,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Tiranwnn"
+  ]
+}

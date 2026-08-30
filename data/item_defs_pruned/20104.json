@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Ankou's leggings",
+  "examine": "These leggings will make your flesh transparent.",
+  "id": 20104,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "master_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

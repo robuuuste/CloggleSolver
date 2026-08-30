@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Scurrius' spine",
+  "examine": "This can be attached to a Battlestaff, Rune Mace or Yew Shortbow.",
+  "id": 28798,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Misthalin"
+  ]
+}

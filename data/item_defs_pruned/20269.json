@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "White unicorn mask",
+  "examine": "Pointy rainbows.",
+  "id": 20269,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "medium_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

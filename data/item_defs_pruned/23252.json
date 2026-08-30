@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Giant boot",
+  "examine": "Worn on head. Warning: Smelly.",
+  "id": 23252,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "elite_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

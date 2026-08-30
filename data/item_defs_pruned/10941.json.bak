@@ -1,0 +1,15 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Lumberjack hat",
+  "examine": "You'll certainly be alright wearing this.",
+  "id": 10941,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania",
+    "Varies"
+  ]
+}

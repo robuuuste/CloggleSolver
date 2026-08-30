@@ -1,0 +1,80 @@
+{
+  "id": 11920,
+  "name": "Dragon pickaxe",
+  "examine": "If rocks could feel fear, they'd fear this.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 224,
+  "yan2d": 1056,
+  "zan2d": 0,
+  "cost": 97950,
+  "stackable": 0,
+  "inventoryModel": 28315,
+  "tradeable": true,
+  "geTradeable": true,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "zoom2d": 1070,
+  "xOffset2d": -2,
+  "yOffset2d": -19,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    null,
+    "Wield",
+    null,
+    null,
+    "Drop"
+  ],
+  "maleModel0": 28288,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": -1,
+  "maleHeadModel2": -1,
+  "femaleModel0": 28288,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 6,
+  "femaleHeadModel": -1,
+  "femaleHeadModel2": -1,
+  "category": 67,
+  "notedID": 11921,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 2400,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 14766,
+  "placeholderTemplateId": -1,
+  "params": {
+    "0": 38,
+    "1": -2,
+    "2": 32,
+    "258": 21,
+    "6": 1,
+    "23": 61,
+    "10": 42,
+    "14": 5
+  },
+  "regions": [
+    "Kharidian Desert",
+    "Wilderness"
+  ]
+}

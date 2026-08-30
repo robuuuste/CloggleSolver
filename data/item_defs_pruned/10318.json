@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Bob's blue shirt",
+  "examine": "'Bob says: Always check the second trade screen.'",
+  "id": 10318,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "easy_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

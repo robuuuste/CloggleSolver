@@ -1,0 +1,73 @@
+{
+  "id": 25580,
+  "name": "Tackle box",
+  "examine": "Holds assorted Fishing tackle.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 74,
+  "yan2d": 1933,
+  "zan2d": 0,
+  "cost": 850,
+  "stackable": 0,
+  "inventoryModel": 41966,
+  "tradeable": false,
+  "geTradeable": false,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "zoom2d": 2566,
+  "xOffset2d": 0,
+  "yOffset2d": -7,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    "View",
+    "Fill",
+    "Empty",
+    null,
+    "Destroy"
+  ],
+  "maleModel0": -1,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": -1,
+  "maleHeadModel2": -1,
+  "femaleModel0": -1,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": -1,
+  "femaleHeadModel2": -1,
+  "category": 0,
+  "notedID": -1,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 950,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 25581,
+  "placeholderTemplateId": -1,
+  "params": {
+    "595": "Use",
+    "295": 1
+  },
+  "regions": [
+    "Kharidian Desert"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Bob's black shirt",
+  "examine": "'Bob says: A bank pin will keep your items secure.'",
+  "id": 10322,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "easy_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

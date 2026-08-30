@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Mysterious page",
+  "examine": "A page found on the third floor of the Hallowed Sepulchre.",
+  "id": 24767,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "hallowed_sepulchre"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Bandos full helm",
+  "examine": "Rune full helmet in the colours of Bandos.",
+  "id": 12486,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

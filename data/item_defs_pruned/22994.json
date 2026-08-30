@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Bottomless compost bucket",
+  "examine": "It's a bucket that can hold a lot of compost at once.",
+  "id": 22994,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "hespori"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

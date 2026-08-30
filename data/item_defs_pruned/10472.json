@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Guthix stole",
+  "examine": "A Guthix stole.",
+  "id": 10472,
+  "wearPos1": 2,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "hard_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

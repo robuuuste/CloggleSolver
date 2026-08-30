@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Pheasant legs",
+  "examine": "You'll look magni-pheasant wearing these!",
+  "id": 28622,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "forestry"
+  ],
+  "categories": [
+    "other"
+  ]
+}

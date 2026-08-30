@@ -1,0 +1,15 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Prospector helmet",
+  "examine": "Helps you when you're mining.",
+  "id": 12013,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia",
+    "Fossil Island"
+  ]
+}

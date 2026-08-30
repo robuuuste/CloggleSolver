@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Thieving bag",
+  "examine": "A good place to store your stolen goods.",
+  "id": 23224,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "hard_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

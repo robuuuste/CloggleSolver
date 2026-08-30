@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Golden Saradomin special attack",
+  "examine": "Paints the Saradomin godsword's special attack gold.",
+  "id": 24870,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Wilderness"
+  ]
+}

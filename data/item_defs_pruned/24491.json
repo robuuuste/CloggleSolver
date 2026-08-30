@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Little Nightmare",
+  "examine": "Quite the little nightmare.",
+  "id": 24491,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "all_pets",
+    "the_nightmare"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

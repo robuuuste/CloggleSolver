@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dharok's greataxe",
+  "examine": "Dharok the Wretched's greataxe.",
+  "id": 4718,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "barrows_chests"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Cabbage round shield",
+  "examine": "An adamant shield shaped like a cabbage.",
+  "id": 20272,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "medium_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

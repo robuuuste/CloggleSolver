@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Xeric's general",
+  "examine": "Awarded for completing 1500 Chambers of Xeric in challenge mode.",
+  "id": 22394,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "chambers_of_xeric"
+  ],
+  "categories": [
+    "raids"
+  ]
+}

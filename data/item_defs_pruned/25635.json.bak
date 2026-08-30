@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Barronite head",
+  "examine": "A strong weapon head made from barronite.",
+  "id": 25635,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Asgarnia"
+  ]
+}

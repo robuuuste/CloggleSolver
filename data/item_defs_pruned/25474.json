@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Tree wizards' journal",
+  "examine": "A worn diary with a dark green cover.",
+  "id": 25474,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "shades_of_mortton"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

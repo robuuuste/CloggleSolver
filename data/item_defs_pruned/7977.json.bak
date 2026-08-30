@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Basilisk head",
+  "examine": "I should get it stuffed!",
+  "id": 7977,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fremennik Province"
+  ]
+}

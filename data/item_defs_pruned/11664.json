@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Void ranger helm",
+  "examine": "A ranger helm from the order of the Void Knights.",
+  "id": 11664,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands"
+  ],
+  "sources": [
+    "pest_control"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Draconic visage",
+  "examine": "It looks like this could be attached to a shield somehow.",
+  "id": 11286,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands",
+    "Varies",
+    "Wilderness"
+  ],
+  "sources": [
+    "king_black_dragon",
+    "slayer",
+    "vorkath"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

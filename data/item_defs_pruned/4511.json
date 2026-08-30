@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Decorative helm",
+  "examine": "A very decorative helm.",
+  "id": 4511,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "castle_wars"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

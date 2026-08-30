@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Uncharged trident",
+  "examine": "It needs to be charged with death runes, chaos runes, fire runes and coins.",
+  "id": 11908,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ]
+}

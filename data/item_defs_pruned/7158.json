@@ -1,0 +1,26 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon 2h sword",
+  "examine": "A two-handed Dragon Sword.",
+  "id": 7158,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert",
+    "Wilderness"
+  ],
+  "sources": [
+    "callisto_and_artio",
+    "chaos_elemental",
+    "kalphite_queen",
+    "scorpia",
+    "venenatis_and_spindel",
+    "vetion_and_calvarion"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Prospector jacket",
+  "examine": "Helps you when you're mining.",
+  "id": 12014,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia",
+    "Fossil Island"
+  ],
+  "sources": [
+    "motherlode_mine",
+    "volcanic_mine"
+  ],
+  "categories": [
+    "minigames",
+    "other"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Hallowed focus",
+  "examine": "Removes the chance of failing to enchant portals within the Hallowed Sepulchre.",
+  "id": 24723,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Mud battlestaff",
+  "examine": "It's a slightly magical stick.",
+  "id": 6562,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fremennik Province"
+  ],
+  "sources": [
+    "dagannoth_kings"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

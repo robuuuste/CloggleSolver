@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Broken dragon hook",
+  "examine": "A broken hook from an exquisite salvaging hook.",
+  "id": 31961,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "sailing_miscellaneous"
+  ],
+  "categories": [
+    "other"
+  ]
+}

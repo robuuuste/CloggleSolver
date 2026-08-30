@@ -1,0 +1,818 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Cloggle Solver</title>
+  <style>
+    :root {
+      --bg: #ead5c3;
+      --bg-accent: #dfc0a4;
+      --panel: #F7EFE8;
+      --panel-soft: #ffffff;
+      --panel-hard: #f7efe8;
+      --line: #996f519f;
+      --text: #270e02;
+      --muted: #503f38;
+      --accent: #5079B2;
+      --accent-strong: #072768;
+      --danger: #b91c1c;
+      --danger-soft: #FFE2E2;
+      --danger-border: #fca5a5;
+      --success: #166534;
+      --success-soft: #DCFCE7;
+      --success-border: #86efac;
+      --shadow: 0 12px 30px rgba(31, 41, 55, 0.08);
+    }
+
+    body[data-theme="dark"] {
+      --bg: #0f172a;
+      --bg-accent: #111827;
+      --panel: #111c2d;
+      --panel-soft: #152136;
+      --panel-hard: #111927;
+      --line: #243247;
+      --text: #e5eefb;
+      --muted: #9fb0cc;
+      --accent: #7cc7ff;
+      --accent-strong: #4da3ff;
+      --danger: #fda4af;
+      --danger-soft: rgba(190, 24, 93, 0.18);
+      --danger-border: rgba(251, 113, 133, 0.45);
+      --success: #86efac;
+      --success-soft: rgba(34, 197, 94, 0.16);
+      --success-border: rgba(134, 239, 172, 0.5);
+      --shadow: 0 18px 40px rgba(2, 6, 23, 0.45);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      margin: 0;
+      min-height: 100%;
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Inter", sans-serif;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      padding: 28px 18px 40px;
+      background: linear-gradient(180deg, var(--bg) 0%, var(--bg-accent) 100%);
+      color: var(--text);
+      font-family: "Inter", sans-serif;
+    }
+
+    .shell {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 18px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .brand-mark {
+      width: 36px;
+      height: 36px;
+      display: grid;
+      place-items: center;
+      border-radius: 12px;
+      background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+      color: #fff;
+      font-weight: 700;
+      font-size: 0.9rem;
+      box-shadow: 0 8px 18px rgba(59, 130, 246, 0.25);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.8rem, 2vw, 2.3rem);
+      letter-spacing: -0.06em;
+      font-weight: 700;
+    }
+
+    .theme-toggle {
+      border: 1px solid var(--line);
+      background: var(--panel-soft);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 8px 12px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .cards {
+      display: grid;
+      gap: 18px;
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 2px solid var(--line);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .form-content {
+      display: grid;
+      grid-template-columns: 1fr 2.5fr;
+      gap: 18px;
+      margin-bottom: 18px;
+      align-items: stretch;
+    }
+
+    .left-column {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .candidates-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      height: 30px;
+      align-self: center;
+    }
+
+    .candidates-section {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      min-height: 0;
+      max-height: 517px;
+    }
+
+    .metric {
+      display: inline-flex;
+      align-items: center;
+      height: 30px;
+      padding: 0 10px;
+      border-radius: 8px;
+      background: var(--panel-soft);
+      color: var(--muted);
+      font-size: 0.8rem;
+      font-weight: 600;
+    }
+
+    .form-panel {
+      padding: 18px 20px;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+    }
+
+    .recommend-field {
+      display: block;
+      text-align: center;
+      height: 30px;
+      align-content: center;
+    }
+
+    .recommend-field > label {
+      cursor: pointer;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .guess-field {
+      display: flex;
+      flex-direction: row;
+      gap: 235px;
+    }
+
+    .search-box {
+      width: 100%;
+      height: 44px;
+      border: 2px solid var(--line);
+      border-radius: 10px;
+      padding: 0 14px;
+      font-size: 1rem;
+      background: var(--panel-soft);
+      color: var(--text);
+      outline: none;
+    }
+
+    .search-box:invalid {
+      border-color: var(--danger-border);
+      background: var(--danger-soft);
+    }
+
+    .search-box:focus {
+
+    }
+
+    .feedback-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .field {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      border: 0px inset var(--bg-accent);
+      background: var(--panel-soft);
+      border-radius: 10px;
+      padding: 12px 14px;
+      min-height: 60px;
+    }
+
+    .field-label {
+      font-weight: 600;
+      color: var(--text);
+      user-select: none;
+    }
+
+    .toggle-button {
+      position: relative;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .toggle-button input {
+      position: absolute;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .toggle-chip {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 124px;
+      height: 32px;
+      padding: 0 12px;
+      border-radius: 8px;
+      border: 1px solid var(--danger-border);
+      background: var(--danger-soft);
+      color: var(--danger);
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      transition: all 0.1s ease;
+    }
+
+    .toggle-button input:checked + .toggle-chip {
+      background: var(--success-soft);
+      border-color: var(--success-border);
+      color: var(--success);
+    }
+
+    .field.price-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+    }
+
+    .price-toggle {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .price-option {
+      position: relative;
+      display: inline-flex;
+    }
+
+    .price-option input {
+      position: absolute;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .price-chip {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 32px;
+      border-radius: 8px;
+      border: 1px solid var(--danger-border);
+      background: var(--danger-soft);
+      color: var(--danger);
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.1s ease;
+      user-select: none;
+    }
+
+    .price-option input:checked + .price-chip {
+      background: var(--success-soft);
+      border-color: var(--success-border);
+      color: var(--success);
+    }
+
+    .table-shell {
+      border: 2px solid var(--line);
+      border-radius: 10px;
+      background: var(--panel-soft);
+      flex: 1;
+      min-height: 0;
+      overflow: auto;
+      scrollbar-gutter: stable;
+    }
+
+    .candidate-table {
+      width: 100%;
+      min-width: 780px;
+      border-collapse: separate;
+      border-spacing: 0;
+      table-layout: auto;
+      font-size: 0.9em;
+    }
+
+    .candidate-table th,
+    .candidate-table td {
+      text-align: left;
+      padding: 10px 14px;
+      white-space: normal;
+      overflow-wrap: break-word;
+    }
+
+    .candidate-table th {
+      background: var(--panel-hard);
+      color: var(--muted);
+      font-size: 0.75rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      position: sticky;
+      top: 0;
+      border-bottom: 2px solid var(--line);
+      z-index: 2;
+    }
+
+    .candidate-table tr:nth-child(even) {
+      background: var(--panel-hard);
+    }
+
+    .candidate-table tbody tr:last-child td {
+      border-bottom: none;
+    }
+
+    .candidate-table td:nth-child(2) {
+      text-align: center;
+    }
+
+    .candidate-table th:nth-child(3),
+    .candidate-table td:nth-child(3) {
+      text-align: right;
+    }
+
+    .candidate-table td:first-child {
+      font-weight: 600;
+    }
+
+    .table-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 42px;
+      padding: 3px 7px;
+      border-radius: 6px;
+      font-size: 0.7rem;
+      font-weight: 600;
+    }
+
+    .table-badge.yes {
+      background: var(--success-soft);
+      color: var(--success);
+    }
+
+    .table-badge.no {
+      background: var(--danger-soft);
+      color: var(--danger);
+    }
+
+    .primary-btn,
+    .secondary-btn {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--accent);
+      color: #fff;
+      padding: 10px 10px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+      box-shadow: none;
+      align-self: end;
+    }
+
+    .secondary-btn {
+      background: var(--panel);
+      color: var(--text);
+    }
+
+    .action-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-top: 18px;
+      flex-wrap: wrap;
+    }
+
+    .workspace {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 18px;
+      align-items: start;
+    }
+
+    @media (max-width: 900px) {
+      .workspace {
+        grid-template-columns: 1fr;
+      }
+
+      .feedback-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    a {
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+        /* From Uiverse.io by PriyanshuGupta28 */ 
+    .checkbox-wrapper-10 .tgl {
+      position: absolute;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .checkbox-wrapper-10 .tgl + .tgl-btn {
+      position: relative;
+      display: block;
+      width: 8em;
+      height: 2em;
+      padding: 2px;
+      cursor: pointer;
+      user-select: none;
+      perspective: 400px;
+    }
+
+    /* Both visual faces */
+    .checkbox-wrapper-10 .tgl-flip + .tgl-btn::before,
+    .checkbox-wrapper-10 .tgl-flip + .tgl-btn::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      width: auto;
+      height: auto;
+
+      border-radius: 8px;
+      font-family: "Inter", sans-serif;
+      font-size: small;
+      font-weight: 500;
+
+      backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
+
+      pointer-events: none;
+
+      transition: transform 0.15s ease;
+    }
+
+    /* FALSE */
+    .checkbox-wrapper-10 .tgl-flip + .tgl-btn::before {
+      content: attr(data-tg-off);
+
+      background: var(--danger-soft);
+      color: #9F0712;
+      border: 1px solid var(--danger-border);
+
+      transform: rotateY(0);
+    }
+
+    /* TRUE */
+    .checkbox-wrapper-10 .tgl-flip + .tgl-btn::after {
+      content: attr(data-tg-on);
+
+      background: var(--success-soft);
+      color: #016630;
+      border: 1px solid var(--success-border);
+
+      transform: rotateY(-180deg);
+    }
+
+    /* TRUE state */
+    .checkbox-wrapper-10 .tgl-flip:checked + .tgl-btn::before {
+      transform: rotateY(180deg);
+    }
+
+    .checkbox-wrapper-10 .tgl-flip:checked + .tgl-btn::after {
+      transform: rotateY(0);
+    }
+
+    .checkbox-wrapper-10 .tgl-btn {
+      -webkit-user-select: none;
+      user-select: none;
+    }
+
+    .checkbox-wrapper-10 .tgl-btn:active {
+      transform: scale(0.95);
+    }
+
+
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark">C</div>
+        <h1>Cloggle Solver</h1>
+      </div>
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <button type="button" class="theme-toggle" id="theme-toggle">Dark mode</button>
+      </div>
+    </header>
+
+    <div class="cards">
+      <div class="workspace">
+        <section class="panel form-panel">
+          <form method="post" action="/guess">
+            <div class="form-content">
+              <div class="left-column">
+
+                {% if suggestion %}
+                <div class="recommend-field">
+                  <label id="use-suggestion">Use recommended item: <b>{{ suggestion }}</b></label>
+                </div>
+                {% endif %}
+
+                <div class="guess-field">
+                  <input
+                    list="items"
+                    id="guess_name"
+                    placeholder="Enter item name..."
+                    name="guess_name"
+                    autocomplete="off"
+                    class="search-box"
+                    required
+                  >
+
+                  <datalist id="items">
+                    {% for name in names %}
+                      <option value="{{ name|e }}"></option>
+                    {% endfor %}
+                  </datalist>
+                </div>
+
+                <div class="feedback-grid">
+                  <div class="field">
+                    <span class="field-label">Tradeable</span>
+                    <input type="hidden" name="tradeable" value="no_match"> 
+                    <div class="checkbox-wrapper-10">
+                      <input type="checkbox" id="tradeable" name="tradeable" value="match" class="tgl tgl-flip">
+                      <label for="tradeable" data-tg-on="TRUE" data-tg-off="FALSE" class="tgl-btn"></label>
+                    </div>
+                  </div>
+
+                  <div class="field price-row">
+                    <span class="field-label">Price</span>
+                    <div class="price-toggle">
+                      <label class="price-option">
+                        <input type="radio" name="price" value="lower">
+                        <span class="price-chip">&lt;</span>
+                      </label>
+                      <label class="price-option">
+                        <input type="radio" name="price" value="equal" checked>
+                        <span class="price-chip">=</span>
+                      </label>
+                      <label class="price-option">
+                        <input type="radio" name="price" value="higher">
+                        <span class="price-chip">&gt;</span>
+                      </label>
+                    </div>
+                  </div>
+
+                  <div class="field">
+                    <span class="field-label">Equipment slot</span>
+                    <input type="hidden" name="equipment_slot" value="no_match">
+                    <div class="checkbox-wrapper-10">
+                      <input type="checkbox" id="equipment_slot" name="equipment_slot" value="match" class="tgl tgl-flip">
+                      <label for="equipment_slot" data-tg-on="TRUE" data-tg-off="FALSE" class="tgl-btn"></label>
+                    </div>
+                  </div>
+
+                  <div class="field">
+                    <span class="field-label">Region</span>
+                    <input type="hidden" name="region" value="no_match">
+                    <div class="checkbox-wrapper-10">
+                      <input type="checkbox" id="region" name="region" value="match" class="tgl tgl-flip">
+                      <label for="region" data-tg-on="TRUE" data-tg-off="FALSE" class="tgl-btn"></label>
+                    </div>
+                  </div>
+
+                  <div class="field">
+                    <span class="field-label">Category</span>
+                    <input type="hidden" name="category" value="no_match">
+                    <div class="checkbox-wrapper-10">
+                      <input type="checkbox" id="category" name="category" value="match" class="tgl tgl-flip">
+                      <label for="category" data-tg-on="TRUE" data-tg-off="FALSE" class="tgl-btn"></label>
+                    </div>
+                  </div>
+
+                  <div class="field">
+                    <span class="field-label">Source</span>
+                    <input type="hidden" name="source" value="no_match">
+                    <div class="checkbox-wrapper-10">
+                      <input type="checkbox" id="source" name="source" value="match" class="tgl tgl-flip">
+                      <label for="source" data-tg-on="TRUE" data-tg-off="FALSE" class="tgl-btn"></label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              
+              
+              <div class="candidates-section">
+                  <div class="candidates-header">
+                    <span class="metric">Candidates: {{ candidates|length }}</span>
+                  </div>
+
+                  <div class="table-shell">
+                    <table class="candidate-table">
+                      <thead>
+                        <tr>
+                          <th>Name</th>
+                          <th>Tradeable</th>
+                          <th>Price</th>
+                          <th>Slot</th>
+                          <th>Region</th>
+                          <th>Source</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {% for it in candidates %}
+                          <tr>
+                            <td>{{ it.name }}</td>
+                            <td>
+                              <span class="table-badge {{ 'yes' if it.tradeable else 'no' }}">
+                                {{ 'Yes' if it.tradeable else 'No' }}
+                              </span>
+                            </td>
+                            <td>{{ format_price(it.price) if it.price is not none else "?" }}</td>
+                            <td>{{ it.equipment_slot or "-" }}</td>
+                            <td>{{ it.regions|join(", ") or "-" }}</td>
+                            <td>{{ it.sources|join(", ") or "-" }}</td>
+                          </tr>
+                        {% endfor %}
+                      </tbody>
+                    </table>
+                  </div>
+              </div>
+            </div>
+
+            <div class="action-row">
+              <form method="post" action="/guess">
+                  <button class="primary-btn" type="submit">Apply feedback</button>
+              </form>
+
+              <form method="post" action="/reset">
+                  <button class="secondary-btn" type="submit">Reset</button>
+              </form>
+            </div>
+          </form>
+            
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const themeToggle = document.getElementById("theme-toggle");
+    const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const savedTheme = window.localStorage.getItem("themePreference");
+    const theme = savedTheme || (prefersDark ? "dark" : "light");
+    document.body.setAttribute("data-theme", theme);
+    if (themeToggle) {
+      themeToggle.textContent = theme === "dark" ? "Light mode" : "Dark mode";
+    }
+
+    const guessInput = document.getElementById("guess_name");
+    const pendingSuggestion = window.sessionStorage.getItem("pendingSuggestion");
+
+    if (pendingSuggestion && guessInput) {
+      guessInput.value = pendingSuggestion;
+      window.sessionStorage.removeItem("pendingSuggestion");
+    }
+
+    const feedbackStateKey = "feedbackState";
+    const resetFeedback = {{ reset_feedback|tojson }};
+    if (resetFeedback) {
+      window.localStorage.removeItem(feedbackStateKey);
+    }
+
+    const feedbackControls = Array.from(
+      document.querySelectorAll('.feedback-grid input[type="checkbox"], .feedback-grid input[type="radio"]')
+    );
+    let savedFeedback = {};
+    try {
+      savedFeedback = resetFeedback
+        ? {}
+        : JSON.parse(window.localStorage.getItem(feedbackStateKey) || "{}");
+    } catch (error) {
+      window.localStorage.removeItem(feedbackStateKey);
+    }
+
+    feedbackControls.forEach((control) => {
+      if (control.type === "checkbox" && typeof savedFeedback[control.id] === "boolean") {
+        control.checked = savedFeedback[control.id];
+      }
+      if (control.type === "radio" && savedFeedback.price === control.value) {
+        control.checked = true;
+      }
+    });
+
+    feedbackControls.forEach((control) => {
+      control.addEventListener("change", function () {
+        console.log(performance.now(), control.id, control.checked);
+        const state = {};
+        feedbackControls.forEach((feedbackControl) => {
+          if (feedbackControl.type === "checkbox") {
+            state[feedbackControl.id] = feedbackControl.checked;
+          }
+        });
+        const selectedPrice = document.querySelector('input[type="radio"][name="price"]:checked');
+        if (selectedPrice) {
+          state.price = selectedPrice.value;
+        }
+        window.localStorage.setItem(feedbackStateKey, JSON.stringify(state));
+      });
+    });
+
+    document.getElementById("use-suggestion")?.addEventListener("click", function (e) {
+      e.preventDefault();
+      const suggestion = {{ suggestion|tojson if suggestion is not none else 'null' }};
+      if (suggestion && guessInput) {
+        guessInput.value = suggestion;
+      }
+    });
+
+    themeToggle?.addEventListener("click", function () {
+      const nextTheme = document.body.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      document.body.setAttribute("data-theme", nextTheme);
+      window.localStorage.setItem("themePreference", nextTheme);
+      themeToggle.textContent = nextTheme === "dark" ? "Light mode" : "Dark mode";
+    });
+
+    document.querySelectorAll(".tgl-flip + .tgl-btn").forEach((label) => {
+      label.addEventListener("pointerdown", (event) => {
+        event.preventDefault();
+
+        const checkbox = document.getElementById(label.htmlFor);
+
+        if (!checkbox) return;
+
+        checkbox.checked = !checkbox.checked;
+
+        checkbox.dispatchEvent(new Event("change", {
+          bubbles: true
+        }));
+      });
+
+      label.addEventListener("click", (event) => {
+        event.preventDefault();
+      });
+    });
+  </script>
+</body>
+</html>

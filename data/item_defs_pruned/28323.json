@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Siren's staff",
+  "examine": "A staff that writhes with shadows.",
+  "id": 28323,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ],
+  "sources": [
+    "the_whisperer"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

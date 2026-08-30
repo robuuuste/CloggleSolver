@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dagon'hai robe top",
+  "examine": "A robe worn by members of the Dagon'hai.",
+  "id": 24291,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "slayer"
+  ],
+  "categories": [
+    "other"
+  ]
+}

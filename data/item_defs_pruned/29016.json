@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Blue moon tassets",
+  "examine": "The tassets of the Blue Moon.",
+  "id": 29016,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "moons_of_peril"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

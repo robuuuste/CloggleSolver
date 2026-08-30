@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "A powdered wig",
+  "examine": "A big do about nothing.",
+  "id": 10392,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "easy_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

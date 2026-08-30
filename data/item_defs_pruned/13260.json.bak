@@ -1,0 +1,15 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Angler waders",
+  "examine": "This will help with fishing.",
+  "id": 13260,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend",
+    "Kandarin"
+  ]
+}

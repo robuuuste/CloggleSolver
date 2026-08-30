@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Large water container",
+  "examine": "Prevents the water from evaporating!",
+  "id": 25615,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fossil Island"
+  ]
+}

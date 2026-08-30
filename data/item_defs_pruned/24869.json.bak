@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Golden Bandos special attack",
+  "examine": "Paints the Bandos godsword's special attack gold.",
+  "id": 24869,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Wilderness"
+  ]
+}

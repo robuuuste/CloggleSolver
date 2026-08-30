@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Decorative full helm",
+  "examine": "A very decorative full face helmet.",
+  "id": 25174,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": false,
+  "regions": [
+    "Kandarin"
+  ]
+}

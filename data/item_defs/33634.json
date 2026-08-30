@@ -1,0 +1,69 @@
+{
+  "id": 33634,
+  "name": "Elder venator fang",
+  "examine": "A still dripping bloody fang from a venator.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 581,
+  "yan2d": 2012,
+  "zan2d": 0,
+  "cost": 200000,
+  "stackable": 0,
+  "inventoryModel": 60716,
+  "tradeable": false,
+  "geTradeable": false,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "zoom2d": 1086,
+  "xOffset2d": 3,
+  "yOffset2d": 3,
+  "ambient": 15,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    "Etch",
+    null,
+    null,
+    null,
+    "Drop"
+  ],
+  "maleModel0": -1,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": -1,
+  "maleHeadModel2": -1,
+  "femaleModel0": -1,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": -1,
+  "femaleHeadModel2": -1,
+  "category": 0,
+  "notedID": -1,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 1,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 33635,
+  "placeholderTemplateId": -1,
+  "regions": [
+    "Other Planes"
+  ]
+}

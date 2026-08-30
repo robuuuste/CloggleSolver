@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Robe top of the eye",
+  "examine": "The perfect robe top for runecrafting.",
+  "id": 26852,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Granite boots",
+  "examine": "These will protect my feet, but are a bit heavy.",
+  "id": 21643,
+  "wearPos1": 10,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fossil Island"
+  ]
+}

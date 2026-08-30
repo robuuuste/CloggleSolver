@@ -1,0 +1,83 @@
+{
+  "id": 21021,
+  "name": "Ancestral robe top",
+  "examine": "The robe top of a powerful sorceress from a bygone era.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 514,
+  "yan2d": 2041,
+  "zan2d": 0,
+  "cost": 120000,
+  "stackable": 0,
+  "inventoryModel": 32790,
+  "tradeable": true,
+  "geTradeable": true,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "zoom2d": 1358,
+  "xOffset2d": 0,
+  "yOffset2d": -3,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    null,
+    "Wear",
+    null,
+    null,
+    "Drop"
+  ],
+  "maleModel0": 32657,
+  "maleModel1": 32658,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": -1,
+  "maleHeadModel2": -1,
+  "femaleModel0": 32664,
+  "femaleModel1": 32665,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": -1,
+  "femaleHeadModel2": -1,
+  "category": 10,
+  "notedID": 21022,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 2721,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 21023,
+  "placeholderTemplateId": -1,
+  "params": {
+    "434": 6,
+    "435": 1,
+    "3": 35,
+    "436": 75,
+    "4": -8,
+    "437": 65,
+    "5": 42,
+    "6": 31,
+    "7": 51,
+    "8": 28,
+    "299": 30,
+    "1564": 4
+  },
+  "regions": [
+    "Great Kourend"
+  ]
+}

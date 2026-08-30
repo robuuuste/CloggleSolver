@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Ring of endurance (uncharged)",
+  "examine": "I wonder if this ring helps with...",
+  "id": 24844,
+  "wearPos1": 12,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "hallowed_sepulchre"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

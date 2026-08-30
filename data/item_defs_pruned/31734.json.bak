@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Ralph's fabric roll",
+  "examine": "A roll of fabric presented by Ralph for achieving Marlin rank in the Tempor Tantrum.",
+  "id": 31734,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

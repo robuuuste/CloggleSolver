@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Ore pack",
+  "examine": "Filled to the brim with ore.",
+  "id": 27019,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ],
+  "sources": [
+    "giants_foundry"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

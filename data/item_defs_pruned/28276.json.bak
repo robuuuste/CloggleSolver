@@ -1,0 +1,17 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Chromium ingot",
+  "examine": "A dense clump of corroded metal.",
+  "id": 28276,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia",
+    "Great Kourend",
+    "Other Planes",
+    "Troll Country"
+  ]
+}

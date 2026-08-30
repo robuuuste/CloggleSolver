@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Oathplate legs",
+  "examine": "Platelegs forged from infernal metal.",
+  "id": 30756,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "yama"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Hydra's heart",
+  "examine": "The heart of a hydra, looks like it can be combined with an eye and a fang.",
+  "id": 22969,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "alchemical_hydra",
+    "slayer"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

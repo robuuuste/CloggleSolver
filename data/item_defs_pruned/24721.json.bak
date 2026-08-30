@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Hallowed grapple",
+  "examine": "Removes the chance of failing a grapple shortcut within the Hallowed Sepulchre.",
+  "id": 24721,
+  "wearPos1": 13,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ]
+}

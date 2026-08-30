@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Strange old lockpick (full)",
+  "examine": "A pristine set of lockpicks engraved with six names.",
+  "id": 24740,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "hallowed_sepulchre"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

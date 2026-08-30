@@ -1,0 +1,26 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon chainbody",
+  "examine": "A series of connected metal rings.",
+  "id": 3140,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend",
+    "Kandarin",
+    "Kharidian Desert",
+    "Wilderness"
+  ],
+  "sources": [
+    "kalphite_queen",
+    "slayer",
+    "thermonuclear_smoke_devil"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

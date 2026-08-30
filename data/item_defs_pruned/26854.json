@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Robe bottoms of the eye",
+  "examine": "The perfect robe bottoms for runecrafting.",
+  "id": 26854,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes"
+  ],
+  "sources": [
+    "guardians_of_the_rift"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

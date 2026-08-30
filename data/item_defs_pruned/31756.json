@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Serrated key",
+  "examine": "A key rewarded for completing the Gwenith Glide. What does it open?",
+  "id": 31756,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "barracuda_trials"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Jar of feathers",
+  "examine": "It's unclear why someone would want to stuff feathers into a jar and make them harder to carry.",
+  "id": 32921,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands"
+  ],
+  "sources": [
+    "shellbane_gryphon"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

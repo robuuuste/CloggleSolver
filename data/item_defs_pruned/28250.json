@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Baron",
+  "examine": "Better keep an eye on this one.",
+  "id": 28250,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Troll Country"
+  ],
+  "sources": [
+    "all_pets",
+    "duke_sucellus"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

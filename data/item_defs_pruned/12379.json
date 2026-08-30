@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Rune cane",
+  "examine": "A dragonstone topped cane.",
+  "id": 12379,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "hard_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

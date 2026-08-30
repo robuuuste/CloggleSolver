@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": false,
+  "name": "Bright pearl",
+  "examine": "Looks like it might fetch a good price.",
+  "id": 31779,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "ocean_encounters"
+  ],
+  "categories": [
+    "other"
+  ]
+}

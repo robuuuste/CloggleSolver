@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "3rd age bow",
+  "examine": "A beautifully crafted bow carved by ancient archers.",
+  "id": 12424,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "third_age"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

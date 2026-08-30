@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Saradomin's light",
+  "examine": "The starlight enlightens your mind to dispel the darkness of Zamorakian evil.",
+  "id": 13256,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Troll Country"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Brimhaven voucher",
+  "examine": "I can exchange these for items.",
+  "id": 29482,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Karamja"
+  ],
+  "sources": [
+    "brimhaven_agility_arena"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

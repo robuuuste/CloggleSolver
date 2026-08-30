@@ -1,0 +1,23 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Abyssal whip",
+  "examine": "A weapon from the Abyss.",
+  "id": 4151,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes",
+    "Varies"
+  ],
+  "sources": [
+    "abyssal_sire",
+    "slayer"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

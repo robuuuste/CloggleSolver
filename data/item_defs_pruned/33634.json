@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Elder venator fang",
+  "examine": "A still dripping bloody fang from a venator.",
+  "id": 33634,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes"
+  ],
+  "sources": [
+    "maggot_king"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

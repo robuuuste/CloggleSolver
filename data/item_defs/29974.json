@@ -1,0 +1,73 @@
+{
+  "id": 29974,
+  "name": "Prescription goggles",
+  "examine": "Safety first!",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 240,
+  "yan2d": 1982,
+  "zan2d": 0,
+  "cost": 320,
+  "stackable": 0,
+  "inventoryModel": 54959,
+  "tradeable": false,
+  "geTradeable": false,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "zoom2d": 650,
+  "xOffset2d": 6,
+  "yOffset2d": 20,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    null,
+    "Wear",
+    "Change",
+    null,
+    "Drop"
+  ],
+  "maleModel0": 55212,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": 54420,
+  "maleHeadModel2": -1,
+  "femaleModel0": 55073,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": 54372,
+  "femaleHeadModel2": -1,
+  "category": 0,
+  "notedID": -1,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 1020,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 29975,
+  "placeholderTemplateId": -1,
+  "params": {
+    "295": 1,
+    "1784": "Provides a 10% chance to save your secondary ingredient when mixing potions."
+  },
+  "regions": [
+    "Varlamore"
+  ]
+}

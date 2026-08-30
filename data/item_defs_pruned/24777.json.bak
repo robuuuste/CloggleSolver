@@ -1,0 +1,15 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Blood shard",
+  "examine": "A magical shard filled with a dark power.",
+  "id": 24777,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania",
+    "Other Planes"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Soul cape",
+  "examine": "A silky cape infused with the power of souls.",
+  "id": 25346,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands"
+  ],
+  "sources": [
+    "soul_wars"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

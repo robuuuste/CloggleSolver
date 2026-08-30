@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Zealot's robe top",
+  "examine": "A well fashioned robe with a strange aura emanating.",
+  "id": 25434,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "shades_of_mortton"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

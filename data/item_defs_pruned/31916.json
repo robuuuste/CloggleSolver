@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon cannonball",
+  "examine": "Ammo suited for a boat's cannon.",
+  "id": 31916,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "sailing_miscellaneous"
+  ],
+  "categories": [
+    "other"
+  ]
+}

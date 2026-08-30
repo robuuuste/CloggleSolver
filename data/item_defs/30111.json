@@ -1,0 +1,79 @@
+{
+  "id": 30111,
+  "name": "Helmet of the moon",
+  "examine": "A helmet forged from moonlight.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 164,
+  "yan2d": 303,
+  "zan2d": 0,
+  "cost": 2000,
+  "stackable": 0,
+  "inventoryModel": 54575,
+  "tradeable": false,
+  "geTradeable": false,
+  "wearPos1": 0,
+  "wearPos2": 11,
+  "wearPos3": 8,
+  "members": true,
+  "zoom2d": 789,
+  "xOffset2d": 8,
+  "yOffset2d": -15,
+  "ambient": 10,
+  "contrast": 30,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    null,
+    "Wear",
+    null,
+    null,
+    "Drop"
+  ],
+  "maleModel0": 55168,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": 54375,
+  "maleHeadModel2": -1,
+  "femaleModel0": 55035,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": 54375,
+  "femaleHeadModel2": -1,
+  "category": 2,
+  "notedID": -1,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 350,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 30112,
+  "placeholderTemplateId": -1,
+  "params": {
+    "3": 3,
+    "5": 6,
+    "6": 7,
+    "295": 1,
+    "7": 5,
+    "8": 3,
+    "9": 6,
+    "11": 3
+  },
+  "regions": [
+    "Varlamore"
+  ]
+}

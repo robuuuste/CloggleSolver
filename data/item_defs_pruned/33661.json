@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Venator fang",
+  "examine": "A sharp tooth.",
+  "id": 33661,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes"
+  ],
+  "sources": [
+    "slayer"
+  ],
+  "categories": [
+    "other"
+  ]
+}

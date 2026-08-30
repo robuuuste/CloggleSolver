@@ -1,0 +1,96 @@
+{
+  "id": 26235,
+  "name": "Zaryte vambraces",
+  "examine": "A pair of ancient vambraces.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 196,
+  "yan2d": 1784,
+  "zan2d": 0,
+  "cost": 200000,
+  "stackable": 0,
+  "inventoryModel": 43237,
+  "tradeable": true,
+  "geTradeable": true,
+  "wearPos1": 9,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "colorFind": [
+    22156,
+    912,
+    22408
+  ],
+  "colorReplace": [
+    -10854,
+    -10329,
+    -10329
+  ],
+  "zoom2d": 740,
+  "xOffset2d": 7,
+  "yOffset2d": -33,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    null,
+    "Wear",
+    null,
+    null,
+    "Drop"
+  ],
+  "maleModel0": 43123,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": -1,
+  "maleHeadModel2": -1,
+  "femaleModel0": 43159,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": -1,
+  "femaleHeadModel2": -1,
+  "category": 16,
+  "notedID": 26403,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 1000,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 26236,
+  "placeholderTemplateId": -1,
+  "params": {
+    "0": -8,
+    "1": -8,
+    "2": -8,
+    "4": 18,
+    "5": 8,
+    "6": 8,
+    "7": 8,
+    "8": 5,
+    "9": 8,
+    "11": 1,
+    "434": 4,
+    "435": 1,
+    "436": 80,
+    "437": 45,
+    "189": 2
+  },
+  "regions": [
+    "Troll Country"
+  ]
+}

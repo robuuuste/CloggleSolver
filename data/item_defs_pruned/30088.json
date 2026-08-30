@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Huasca seed",
+  "examine": "A huasca seed - plant in a herb patch.",
+  "id": 30088,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "hueycoatl"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon sword",
+  "examine": "A razor sharp sword.",
+  "id": 21009,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "slayer"
+  ],
+  "categories": [
+    "other"
+  ]
+}

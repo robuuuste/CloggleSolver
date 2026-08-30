@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Scribbled note",
+  "examine": "Text that's difficult to decipher, scribbled on a yellowing page.",
+  "id": 21664,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fossil Island"
+  ],
+  "sources": [
+    "fossil_island_notes"
+  ],
+  "categories": [
+    "other"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Infinity gloves",
+  "examine": "Mystical gloves.",
+  "id": 6922,
+  "wearPos1": 9,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ],
+  "sources": [
+    "magic_training_arena"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

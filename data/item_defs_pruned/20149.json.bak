@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Gilded chainbody",
+  "examine": "A series of connected metal rings plated in gold.",
+  "id": 20149,
+  "wearPos1": 4,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Virtus robe top",
+  "examine": "An ancient mage's robe top.",
+  "id": 26243,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia",
+    "Great Kourend",
+    "Other Planes",
+    "Troll Country"
+  ],
+  "sources": [
+    "duke_sucellus",
+    "the_leviathan",
+    "the_whisperer",
+    "vardorvis"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

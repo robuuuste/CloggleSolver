@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Deadman's cape",
+  "examine": "Dark and sinister, just like a deadman.",
+  "id": 24191,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Wilderness"
+  ]
+}

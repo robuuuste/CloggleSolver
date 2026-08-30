@@ -1,0 +1,21 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Baby chinchompa",
+  "examine": "Fluffy and cute, keep away from fire!",
+  "id": 13324,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "all_pets",
+    "skilling_pets"
+  ],
+  "categories": [
+    "other"
+  ]
+}

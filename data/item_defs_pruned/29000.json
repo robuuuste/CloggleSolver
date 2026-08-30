@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Eclipse atlatl",
+  "examine": "A powerful thrown weapon forged from an eclipse.",
+  "id": 29000,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "moons_of_peril"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

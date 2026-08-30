@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Green d'hide chaps (g)",
+  "examine": "Made from 100% real dragonhide. With colourful trim!",
+  "id": 7378,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "medium_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

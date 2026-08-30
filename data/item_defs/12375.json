@@ -1,0 +1,88 @@
+{
+  "id": 12375,
+  "name": "Black cane",
+  "examine": "A ruby topped cane.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 54,
+  "yan2d": 174,
+  "zan2d": 408,
+  "cost": 600,
+  "stackable": 0,
+  "inventoryModel": 28667,
+  "tradeable": true,
+  "geTradeable": true,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "colorFind": [
+    21685,
+    21795,
+    103
+  ],
+  "colorReplace": [
+    12,
+    33,
+    931
+  ],
+  "zoom2d": 868,
+  "xOffset2d": 0,
+  "yOffset2d": -10,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    null,
+    "Wield",
+    null,
+    null,
+    "Drop"
+  ],
+  "maleModel0": 28616,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": -1,
+  "maleHeadModel2": -1,
+  "femaleModel0": 28616,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 2,
+  "femaleHeadModel": -1,
+  "femaleHeadModel2": -1,
+  "category": 39,
+  "notedID": 12376,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 1814,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 15928,
+  "placeholderTemplateId": -1,
+  "params": {
+    "0": 8,
+    "1": -2,
+    "2": 16,
+    "10": 13,
+    "11": 2,
+    "13": 0,
+    "14": 5
+  },
+  "regions": [
+    "Varies"
+  ]
+}

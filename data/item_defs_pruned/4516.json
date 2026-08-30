@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Castlewars cloak",
+  "examine": "A fine castlewars Cape.",
+  "id": 4516,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "castle_wars"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Craw's bow (u)",
+  "examine": "This bow once belonged to a formidable follower of Armadyl.",
+  "id": 22547,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "revenants"
+  ],
+  "categories": [
+    "other"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Tome of earth (empty)",
+  "examine": "An ancient tome containing the secrets of earth magic.",
+  "id": 30066,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "hueycoatl"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

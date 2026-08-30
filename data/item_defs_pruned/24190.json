@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Deadman's legs",
+  "examine": "That numb feeling.",
+  "id": 24190,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "last_man_standing"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Pet Smoke Devil",
+  "examine": "*cough*",
+  "id": 12648,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "all_pets",
+    "thermonuclear_smoke_devil"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

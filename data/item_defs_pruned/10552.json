@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Runner boots",
+  "examine": "Boots made from a Penance Runner.",
+  "id": 10552,
+  "wearPos1": 10,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "barbarian_assault"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

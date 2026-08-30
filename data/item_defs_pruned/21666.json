@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Partial note",
+  "examine": "This looks like it was written by a spider.",
+  "id": 21666,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fossil Island"
+  ],
+  "sources": [
+    "fossil_island_notes"
+  ],
+  "categories": [
+    "other"
+  ]
+}

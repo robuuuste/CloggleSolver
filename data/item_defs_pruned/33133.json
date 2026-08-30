@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Pristine spider silk",
+  "examine": "It's a sheet of fine silk.",
+  "id": 33133,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "sarachnis"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Jar of swamp",
+  "examine": "This is my Swamp!",
+  "id": 12936,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Tiranwnn"
+  ],
+  "sources": [
+    "zulrah"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

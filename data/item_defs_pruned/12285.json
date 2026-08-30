@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Mithril plateskirt (g)",
+  "examine": "Mithril plateskirt with gold trim.",
+  "id": 12285,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "medium_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

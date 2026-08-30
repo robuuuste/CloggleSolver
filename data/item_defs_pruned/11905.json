@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Trident of the seas (full)",
+  "examine": "A weapon from the deep.",
+  "id": 11905,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "kraken"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

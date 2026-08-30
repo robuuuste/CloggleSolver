@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "3rd age mage hat",
+  "examine": "Fabulously ancient mage protection enchanted in the 3rd Age.",
+  "id": 10342,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "third_age"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

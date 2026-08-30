@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Beef",
+  "examine": "Commonly referred to as Sir Loin.",
+  "id": 33124,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Misthalin"
+  ],
+  "sources": [
+    "all_pets",
+    "brutus"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

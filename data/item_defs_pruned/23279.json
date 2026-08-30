@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Gilded axe",
+  "examine": "A powerful axe.",
+  "id": 23279,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "gilded"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

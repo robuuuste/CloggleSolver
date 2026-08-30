@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Warrior ring",
+  "examine": "A legendary ring once worn by Fremennik warriors.",
+  "id": 6735,
+  "wearPos1": 12,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fremennik Province"
+  ],
+  "sources": [
+    "dagannoth_kings"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

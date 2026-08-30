@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Samurai boots",
+  "examine": "Armoured socks of the Samurai.",
+  "id": 20047,
+  "wearPos1": 10,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "master_treasure_trails"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Pet Kraken",
+  "examine": "How.... is it walking?",
+  "id": 12655,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "all_pets",
+    "kraken"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Guild hunter headwear",
+  "examine": "The hat of the Hunters.",
+  "id": 29263,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "hunter_guild"
+  ],
+  "categories": [
+    "other"
+  ]
+}

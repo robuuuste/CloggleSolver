@@ -1,0 +1,22 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Glacial temotli",
+  "examine": "It's clobbering time.",
+  "id": 29889,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "amoxliatl",
+    "slayer"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

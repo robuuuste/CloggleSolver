@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Barrel stand",
+  "examine": "Expertly crafted components that can be assembled into a stand. Perfect for holding a barrel of alcohol.",
+  "id": 31733,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

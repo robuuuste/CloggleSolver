@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Ancient page",
+  "examine": "This seems to have been torn from a book...",
+  "id": 11341,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "my_notes"
+  ],
+  "categories": [
+    "other"
+  ]
+}

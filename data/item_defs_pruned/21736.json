@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Granite gloves",
+  "examine": "Never take these for granite.",
+  "id": 21736,
+  "wearPos1": 9,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "grotesque_guardians"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

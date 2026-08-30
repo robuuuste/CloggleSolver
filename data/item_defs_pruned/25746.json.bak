@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Sanguine dust",
+  "examine": "Gross... essence of Theatre of Blood bosses. Use on Lil' zik.",
+  "id": 25746,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ]
+}

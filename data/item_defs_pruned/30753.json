@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Oathplate chest",
+  "examine": "A chestplate forged from infernal metal.",
+  "id": 30753,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "yama"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

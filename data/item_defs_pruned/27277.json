@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Tumeken's shadow (uncharged)",
+  "examine": "An ancient staff created using a higher power.",
+  "id": 27277,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ],
+  "sources": [
+    "tombs_of_amascut"
+  ],
+  "categories": [
+    "raids"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Sturdy beehive parts",
+  "examine": "A sturdy piece of a beehive, useful for constructing your own beehive.",
+  "id": 28674,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

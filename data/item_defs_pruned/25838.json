@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Parasitic egg",
+  "examine": "Gross, only a nightmare would like this.",
+  "id": 25838,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "the_nightmare"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

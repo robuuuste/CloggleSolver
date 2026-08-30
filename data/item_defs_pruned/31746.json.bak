@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Gurtob's fabric roll",
+  "examine": "A roll of fabric presented by Gurtob for achieving Marlin rank in the Jubbly Jive.",
+  "id": 31746,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

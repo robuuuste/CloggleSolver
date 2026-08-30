@@ -1,0 +1,72 @@
+{
+  "id": 30922,
+  "name": "Minor master scroll case",
+  "examine": "Maybe I should open it...",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 204,
+  "yan2d": 1708,
+  "zan2d": 2,
+  "cost": 1,
+  "stackable": 0,
+  "inventoryModel": 56321,
+  "tradeable": false,
+  "geTradeable": false,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "zoom2d": 1501,
+  "xOffset2d": 1,
+  "yOffset2d": -16,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    "Open",
+    null,
+    null,
+    null,
+    "Destroy"
+  ],
+  "maleModel0": -1,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": -1,
+  "maleHeadModel2": -1,
+  "femaleModel0": -1,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": -1,
+  "femaleHeadModel2": -1,
+  "category": 2174,
+  "notedID": -1,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 20,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 30923,
+  "placeholderTemplateId": -1,
+  "params": {
+    "295": 1
+  },
+  "regions": [
+    "Varies"
+  ]
+}

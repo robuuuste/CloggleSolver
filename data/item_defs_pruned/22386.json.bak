@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Metamorphic dust",
+  "examine": "Sparkly essence of Chambers of Xeric bosses. Use on Olmlet.",
+  "id": 22386,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ]
+}

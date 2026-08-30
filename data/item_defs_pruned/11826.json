@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Armadyl helmet",
+  "examine": "A helmet of great craftsmanship.",
+  "id": 11826,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Troll Country"
+  ],
+  "sources": [
+    "kree_arra"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Viggora's chainmace (u)",
+  "examine": "An ancient chainmace with a peculiar mechanism that allows for varying attack styles.",
+  "id": 22542,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ]
+}

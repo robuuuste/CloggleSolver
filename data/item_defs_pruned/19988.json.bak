@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Blacksmith's helm",
+  "examine": "A helm worn by blacksmiths.",
+  "id": 19988,
+  "wearPos1": 0,
+  "wearPos2": -1,
+  "wearPos3": 11,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Angler boots",
+  "examine": "Where's Welly?",
+  "id": 13261,
+  "wearPos1": 10,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend",
+    "Kandarin"
+  ],
+  "sources": [
+    "aerial_fishing",
+    "fishing_trawler"
+  ],
+  "categories": [
+    "minigames",
+    "other"
+  ]
+}

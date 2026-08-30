@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Elite void top",
+  "examine": "Superior torso armour from the order of the Void Knights.",
+  "id": 13072,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands"
+  ],
+  "sources": [
+    "pest_control"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

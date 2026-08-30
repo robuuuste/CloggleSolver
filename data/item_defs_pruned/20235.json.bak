@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Ancient blessing",
+  "examine": "The misery that is now upon us is but the passing of greed, the bitterness of those who fear the way of progress.",
+  "id": 20235,
+  "wearPos1": 13,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

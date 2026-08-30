@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": false,
+  "name": "Shimmering pearl",
+  "examine": "Looks like it would sell for an extremely high price.",
+  "id": 31791,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ]
+}

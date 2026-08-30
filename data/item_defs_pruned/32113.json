@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Sandy paint",
+  "examine": "A sandy beige paint. This might look good on a boat.",
+  "id": 32113,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands"
+  ],
+  "sources": [
+    "boat_paints"
+  ],
+  "categories": [
+    "other"
+  ]
+}

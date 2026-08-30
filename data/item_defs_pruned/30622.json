@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Bran",
+  "examine": "Might have a short temper.",
+  "id": 30622,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ],
+  "sources": [
+    "all_pets",
+    "royal_titans"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

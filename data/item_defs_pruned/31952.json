@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Swift albatross feather",
+  "examine": "An elegant feather from an albatross. Not so swift anymore.",
+  "id": 31952,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "sailing_miscellaneous"
+  ],
+  "categories": [
+    "other"
+  ]
+}

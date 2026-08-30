@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Skull of vet'ion",
+  "examine": "The skull of an oathbound warrior. Severed from its body, it still maintains some power.",
+  "id": 27673,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "vetion_and_calvarion"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

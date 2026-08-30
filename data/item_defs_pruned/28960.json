@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Smol Heredit",
+  "examine": "Still somewhat imposing, I suppose.",
+  "id": 28960,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "all_pets",
+    "fortis_colosseum"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

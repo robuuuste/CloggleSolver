@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Amulet of avarice",
+  "examine": "A hauntingly beautiful amulet bearing the shape of a skull.",
+  "id": 22557,
+  "wearPos1": 2,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "revenants"
+  ],
+  "categories": [
+    "other"
+  ]
+}

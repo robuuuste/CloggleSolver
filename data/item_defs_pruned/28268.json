@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Blood quartz",
+  "examine": "Made of condensed blood energy.",
+  "id": 28268,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "vardorvis"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

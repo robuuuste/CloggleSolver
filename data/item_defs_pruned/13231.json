@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Primordial crystal",
+  "examine": "A powerful crystal of strength.",
+  "id": 13231,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ],
+  "sources": [
+    "cerberus"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

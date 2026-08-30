@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Dizana's quiver (uncharged)",
+  "examine": "A quiver awarded to those who have proved their worth in the Colosseum.",
+  "id": 28947,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "fortis_colosseum"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

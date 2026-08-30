@@ -1,0 +1,17 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Awakener's orb",
+  "examine": "A mysterious orb of unknown power. What could it do?",
+  "id": 28334,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia",
+    "Great Kourend",
+    "Other Planes",
+    "Troll Country"
+  ]
+}

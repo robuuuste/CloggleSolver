@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Void seal(8)",
+  "examine": "A seal storing the power of the Void Knights.",
+  "id": 11666,
+  "wearPos1": 2,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands"
+  ],
+  "sources": [
+    "pest_control"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

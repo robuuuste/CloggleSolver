@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Yami",
+  "examine": "Small, yet intimidating.",
+  "id": 30888,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "all_pets",
+    "yama"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

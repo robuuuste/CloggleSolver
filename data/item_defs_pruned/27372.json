@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Masori crafting kit",
+  "examine": "Supplies that could be used to make Masori-themed equipment.",
+  "id": 27372,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ],
+  "sources": [
+    "tombs_of_amascut"
+  ],
+  "categories": [
+    "raids"
+  ]
+}

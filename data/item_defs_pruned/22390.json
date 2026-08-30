@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Xeric's warrior",
+  "examine": "Awarded for completing 500 Chambers of Xeric in challenge mode.",
+  "id": 22390,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "chambers_of_xeric"
+  ],
+  "categories": [
+    "raids"
+  ]
+}

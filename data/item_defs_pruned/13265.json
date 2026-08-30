@@ -1,0 +1,23 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Abyssal dagger",
+  "examine": "Something sharp from the body of a defeated Abyssal Sire.",
+  "id": 13265,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes",
+    "Varies"
+  ],
+  "sources": [
+    "abyssal_sire",
+    "slayer"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

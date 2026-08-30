@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Lava staff upgrade kit",
+  "examine": "Makes a lava battlestaff or mystic lava staff more beautiful.",
+  "id": 21202,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "last_man_standing"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

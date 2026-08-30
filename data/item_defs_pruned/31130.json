@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Dom",
+  "examine": "Doom on a small scale.",
+  "id": 31130,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varlamore"
+  ],
+  "sources": [
+    "all_pets",
+    "doom_of_mokhaiotl"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Ancient page",
+  "examine": "Has both sorts of watermark.",
+  "id": 11363,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "my_notes"
+  ],
+  "categories": [
+    "other"
+  ]
+}

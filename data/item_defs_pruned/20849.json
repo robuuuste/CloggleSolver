@@ -1,0 +1,22 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon thrownaxe",
+  "examine": "A razor sharp throwing axe.",
+  "id": 20849,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "alchemical_hydra",
+    "slayer"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

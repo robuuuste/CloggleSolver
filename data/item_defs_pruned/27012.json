@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Double ammo mould",
+  "examine": "Looks like two ammo moulds roughly put together with a metal strip.",
+  "id": 27012,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ],
+  "sources": [
+    "giants_foundry"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

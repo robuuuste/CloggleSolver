@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Smoke battlestaff",
+  "examine": "It gives a 10% accuracy and damage bonus for spells on the standard spellbook.",
+  "id": 11998,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ]
+}

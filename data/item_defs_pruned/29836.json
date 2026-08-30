@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Nid",
+  "examine": "Looks like a respectable gentleman.",
+  "id": 29836,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "all_pets",
+    "araxxor"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

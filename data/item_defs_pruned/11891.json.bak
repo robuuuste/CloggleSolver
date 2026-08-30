@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Saradomin banner",
+  "examine": "The Saradomin Team Standard.",
+  "id": 11891,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Kandarin"
+  ]
+}

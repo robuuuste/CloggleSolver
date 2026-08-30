@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Ancient emblem",
+  "examine": "A mysterious artifact of ancient times, of some value to emblem traders.",
+  "id": 21807,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "revenants"
+  ],
+  "categories": [
+    "other"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Fire cape",
+  "examine": "A cape of fire.",
+  "id": 6570,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Karamja"
+  ],
+  "sources": [
+    "the_fight_caves"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Mime top",
+  "examine": "A mime would wear this.",
+  "id": 3058,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "random_events"
+  ],
+  "categories": [
+    "other"
+  ]
+}

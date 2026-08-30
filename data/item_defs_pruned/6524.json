@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Toktz-ket-xil",
+  "examine": "A spiked shield of obsidian.",
+  "id": 6524,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Karamja"
+  ],
+  "sources": [
+    "tzhaar"
+  ],
+  "categories": [
+    "other"
+  ]
+}

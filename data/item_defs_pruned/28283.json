@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Venator vestige",
+  "examine": "A fragment of ancient power.",
+  "id": 28283,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes"
+  ],
+  "sources": [
+    "the_leviathan"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

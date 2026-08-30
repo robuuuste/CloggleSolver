@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Dragon pickaxe (broken)",
+  "examine": "I found this in an ore pack. Maybe Petrified Pete can help me with it.",
+  "id": 27695,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Fossil Island"
+  ],
+  "sources": [
+    "volcanic_mine"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

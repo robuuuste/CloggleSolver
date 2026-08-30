@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Abyssal protector",
+  "examine": "Your own personal abyssal horror.",
+  "id": 26901,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Other Planes"
+  ],
+  "sources": [
+    "all_pets",
+    "guardians_of_the_rift"
+  ],
+  "categories": [
+    "minigames",
+    "other"
+  ]
+}

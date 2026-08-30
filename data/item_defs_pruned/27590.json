@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Muphin",
+  "examine": "An oversized grub with arms.",
+  "id": 27590,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Troll Country"
+  ],
+  "sources": [
+    "all_pets",
+    "phantom_muspah"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

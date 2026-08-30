@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Skeletal visage",
+  "examine": "It looks like this could be attached to a shield somehow.",
+  "id": 22006,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands"
+  ],
+  "sources": [
+    "vorkath"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

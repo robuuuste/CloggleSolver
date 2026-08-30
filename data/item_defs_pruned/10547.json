@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Healer hat",
+  "examine": "A Penance Healer hat.",
+  "id": 10547,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kandarin"
+  ],
+  "sources": [
+    "barbarian_assault"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

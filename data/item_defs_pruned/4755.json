@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Verac's flail",
+  "examine": "Verac the Defiled's flail.",
+  "id": 4755,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "barrows_chests"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

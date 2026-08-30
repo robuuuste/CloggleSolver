@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Onyx",
+  "examine": "This looks valuable.",
+  "id": 6573,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "chambers_of_xeric"
+  ],
+  "categories": [
+    "raids"
+  ]
+}

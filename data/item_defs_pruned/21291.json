@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Jal-Nib-Rek",
+  "examine": "It loves to nibble.",
+  "id": 21291,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Karamja"
+  ],
+  "sources": [
+    "all_pets",
+    "the_inferno"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

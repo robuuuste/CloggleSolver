@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Bottomless milk bucket (empty)",
+  "examine": "It's a bucket that can hold a lot of milk at once.",
+  "id": 33091,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Misthalin"
+  ]
+}

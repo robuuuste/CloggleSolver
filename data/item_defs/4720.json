@@ -1,0 +1,91 @@
+{
+  "id": 4720,
+  "name": "Dharok's platebody",
+  "examine": "Dharok the Wretched's platebody armour.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 464,
+  "yan2d": 0,
+  "zan2d": 0,
+  "cost": 280000,
+  "stackable": 0,
+  "inventoryModel": 6582,
+  "tradeable": true,
+  "geTradeable": true,
+  "wearPos1": 4,
+  "wearPos2": 6,
+  "wearPos3": -1,
+  "members": true,
+  "colorFind": [
+    10394,
+    10291
+  ],
+  "colorReplace": [
+    10388,
+    10508
+  ],
+  "zoom2d": 1260,
+  "xOffset2d": 1,
+  "yOffset2d": 4,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    null,
+    "Wear",
+    "Check",
+    null,
+    "Drop"
+  ],
+  "maleModel0": 6670,
+  "maleModel1": 6639,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": -1,
+  "maleHeadModel2": -1,
+  "femaleModel0": 6698,
+  "femaleModel1": 6681,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": -1,
+  "femaleHeadModel2": -1,
+  "category": 7,
+  "notedID": 4721,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 9979,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 15695,
+  "placeholderTemplateId": -1,
+  "params": {
+    "434": 1,
+    "3": -30,
+    "451": "Check",
+    "436": 70,
+    "4": -10,
+    "5": 122,
+    "6": 120,
+    "7": 107,
+    "8": -6,
+    "9": 132,
+    "346": 1,
+    "1564": 4
+  },
+  "regions": [
+    "Morytania"
+  ]
+}

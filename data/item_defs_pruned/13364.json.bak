@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Shayzien helm (2)",
+  "examine": "Dress like a tier 2 Shayzien soldier.",
+  "id": 13364,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ]
+}

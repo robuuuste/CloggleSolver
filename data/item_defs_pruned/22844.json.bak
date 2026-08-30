@@ -1,0 +1,14 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Pearl fly fishing rod",
+  "examine": "Useful for catching salmon or trout while looking a little bit fancy.",
+  "id": 22844,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": false,
+  "regions": [
+    "Great Kourend"
+  ]
+}

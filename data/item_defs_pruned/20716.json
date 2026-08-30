@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Tome of fire (empty)",
+  "examine": "An ancient tome containing the secrets of fire magic.",
+  "id": 20716,
+  "wearPos1": 5,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "wintertodt"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

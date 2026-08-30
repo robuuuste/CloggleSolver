@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Elder chaos hood",
+  "examine": "The hood worn by the dangerous elder druids.",
+  "id": 20595,
+  "wearPos1": 0,
+  "wearPos2": 8,
+  "wearPos3": 11,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ]
+}

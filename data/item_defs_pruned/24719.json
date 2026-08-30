@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Hallowed token",
+  "examine": "A token which can grant an extra minute within the Hallowed Sepulchre.",
+  "id": 24719,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ],
+  "sources": [
+    "hallowed_sepulchre"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Dragon pickaxe",
+  "examine": "If rocks could feel fear, they'd fear this.",
+  "id": 11920,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert",
+    "Wilderness"
+  ],
+  "sources": [
+    "callisto_and_artio",
+    "chaos_elemental",
+    "kalphite_queen",
+    "king_black_dragon",
+    "venenatis_and_spindel",
+    "vetion_and_calvarion"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

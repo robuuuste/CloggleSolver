@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Vet'ion jr.",
+  "examine": "Only the true lord & king of the lands can lift his burden.",
+  "id": 13179,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "all_pets",
+    "vetion_and_calvarion"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

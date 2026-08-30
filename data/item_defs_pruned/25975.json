@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Lightbearer",
+  "examine": "A heavy ring that glimmers with a strange power.",
+  "id": 25975,
+  "wearPos1": 12,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ],
+  "sources": [
+    "tombs_of_amascut"
+  ],
+  "categories": [
+    "raids"
+  ]
+}

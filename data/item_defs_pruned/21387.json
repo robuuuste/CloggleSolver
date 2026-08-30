@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Master scroll book (empty)",
+  "examine": "I can store my teleport scrolls in this.",
+  "id": 21387,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Varies"
+  ],
+  "sources": [
+    "shared_treasure_trail_rewards"
+  ],
+  "categories": [
+    "clues"
+  ]
+}

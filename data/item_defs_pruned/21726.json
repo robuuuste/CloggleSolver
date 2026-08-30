@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Granite dust",
+  "examine": "Granite, in fine form.",
+  "id": 21726,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Islands",
+    "Morytania"
+  ],
+  "sources": [
+    "grotesque_guardians",
+    "the_mad_angel"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

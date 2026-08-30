@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Dossier",
+  "examine": "It contains a single sheet of paper. I wonder what it is...",
+  "id": 30805,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "yama"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

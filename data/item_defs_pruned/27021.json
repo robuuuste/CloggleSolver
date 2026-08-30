@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Colossal blade",
+  "examine": "It takes a lot of guts to wield a blade this big.",
+  "id": 27021,
+  "wearPos1": 3,
+  "wearPos2": 5,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Kharidian Desert"
+  ],
+  "sources": [
+    "giants_foundry"
+  ],
+  "categories": [
+    "minigames"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Zamorak hilt",
+  "examine": "Brimming with potential.",
+  "id": 11816,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Troll Country"
+  ],
+  "sources": [
+    "kril_tsutsaroth"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

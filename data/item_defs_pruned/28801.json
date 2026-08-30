@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Scurry",
+  "examine": "I wonder if it sits.",
+  "id": 28801,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Misthalin"
+  ],
+  "sources": [
+    "all_pets",
+    "scurrius"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

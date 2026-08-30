@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Enhanced crystal weapon seed",
+  "examine": "A seed to be sung into the most powerful crystal weaponry.",
+  "id": 25859,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Tiranwnn"
+  ],
+  "sources": [
+    "the_gauntlet"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

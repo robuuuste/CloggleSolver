@@ -1,0 +1,22 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Butch",
+  "examine": "A tiny headless executioner.",
+  "id": 28248,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Great Kourend"
+  ],
+  "sources": [
+    "all_pets",
+    "vardorvis"
+  ],
+  "categories": [
+    "bosses",
+    "other"
+  ]
+}

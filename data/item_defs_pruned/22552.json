@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Thammaron's sceptre (u)",
+  "examine": "A mighty sceptre used in long forgotten battles.",
+  "id": 22552,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Wilderness"
+  ],
+  "sources": [
+    "revenants"
+  ],
+  "categories": [
+    "other"
+  ]
+}

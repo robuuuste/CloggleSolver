@@ -1,0 +1,14 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Sanguinesti staff (uncharged)",
+  "examine": "A sacred staff imbued with the power of blood. It is currently uncharged.",
+  "id": 22481,
+  "wearPos1": 3,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Morytania"
+  ]
+}

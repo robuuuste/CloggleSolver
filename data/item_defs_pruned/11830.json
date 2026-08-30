@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Armadyl chainskirt",
+  "examine": "A chainskirt of great craftsmanship.",
+  "id": 11830,
+  "wearPos1": 7,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Troll Country"
+  ],
+  "sources": [
+    "kree_arra"
+  ],
+  "categories": [
+    "bosses"
+  ]
+}

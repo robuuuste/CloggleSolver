@@ -1,0 +1,76 @@
+{
+  "id": 20050,
+  "name": "Obsidian cape (r)",
+  "examine": "A cape of woven obsidian plates.",
+  "resizeX": 128,
+  "resizeY": 128,
+  "resizeZ": 128,
+  "xan2d": 400,
+  "yan2d": 948,
+  "zan2d": 0,
+  "cost": 60000,
+  "stackable": 0,
+  "inventoryModel": 31924,
+  "tradeable": true,
+  "geTradeable": true,
+  "wearPos1": 1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "zoom2d": 2140,
+  "xOffset2d": 3,
+  "yOffset2d": 6,
+  "ambient": 0,
+  "contrast": 0,
+  "groundOps": {
+    "ops": [
+      null,
+      null,
+      {
+        "text": "Take"
+      }
+    ],
+    "subOps": [],
+    "conditionalOps": [],
+    "conditionalSubOps": []
+  },
+  "interfaceOptions": [
+    null,
+    "Wear",
+    null,
+    null,
+    "Drop"
+  ],
+  "maleModel0": 31769,
+  "maleModel1": -1,
+  "maleModel2": -1,
+  "maleOffset": 0,
+  "maleHeadModel": -1,
+  "maleHeadModel2": -1,
+  "femaleModel0": 31846,
+  "femaleModel1": -1,
+  "femaleModel2": -1,
+  "femaleOffset": 0,
+  "femaleHeadModel": -1,
+  "femaleHeadModel2": -1,
+  "category": 27,
+  "notedID": 20051,
+  "notedTemplate": -1,
+  "team": 0,
+  "weight": 1814,
+  "shiftClickDropIndex": -2,
+  "boughtId": -1,
+  "boughtTemplateId": -1,
+  "placeholderId": 20052,
+  "placeholderTemplateId": -1,
+  "params": {
+    "5": 9,
+    "6": 9,
+    "7": 9,
+    "8": 9,
+    "9": 9
+  },
+  "regions": [
+    "Varies"
+  ]
+}

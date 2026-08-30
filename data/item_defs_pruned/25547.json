@@ -1,0 +1,20 @@
+{
+  "tradeable": false,
+  "geTradeable": false,
+  "name": "Star fragment",
+  "examine": "A fragment of a long-dead star. You can use it to recolour Prospector equipment.",
+  "id": 25547,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Asgarnia"
+  ],
+  "sources": [
+    "shooting_stars"
+  ],
+  "categories": [
+    "other"
+  ]
+}

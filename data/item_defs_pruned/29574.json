@@ -1,0 +1,20 @@
+{
+  "tradeable": true,
+  "geTradeable": true,
+  "name": "Burning claw",
+  "examine": "An intact, lightly smouldering claw.",
+  "id": 29574,
+  "wearPos1": -1,
+  "wearPos2": -1,
+  "wearPos3": -1,
+  "members": true,
+  "regions": [
+    "Misthalin"
+  ],
+  "sources": [
+    "tormented_demons"
+  ],
+  "categories": [
+    "other"
+  ]
+}
